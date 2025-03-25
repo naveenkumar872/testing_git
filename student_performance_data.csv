@@ -1,0 +1,1613 @@
+Course Name,Course ID,Attempt ID,Candidate Name,Candidate Email,Mark,Grade
+Python Programming,CS101,1,Sophia Johnson,sophia.johnson725@gmail.com,90.9,A
+Python Programming,CS101,2,Sophia Johnson,sophia.johnson725@gmail.com,73.0,C
+Data Structures,CS102,1,Sophia Johnson,sophia.johnson725@gmail.com,69.7,D
+Data Structures,CS102,2,Sophia Johnson,sophia.johnson725@gmail.com,89.8,B
+Database Management,CS103,1,Sophia Johnson,sophia.johnson725@gmail.com,85.2,B
+Database Management,CS103,2,Sophia Johnson,sophia.johnson725@gmail.com,78.8,C
+Web Development,CS104,1,Sophia Johnson,sophia.johnson725@gmail.com,87.1,B
+Machine Learning,CS105,1,Sophia Johnson,sophia.johnson725@gmail.com,84.8,B
+Machine Learning,CS105,2,Sophia Johnson,sophia.johnson725@gmail.com,96.1,A
+Algorithms,CS106,1,Sophia Johnson,sophia.johnson725@gmail.com,87.1,B
+Algorithms,CS106,2,Sophia Johnson,sophia.johnson725@gmail.com,91.2,A
+Algorithms,CS106,3,Sophia Johnson,sophia.johnson725@gmail.com,96.5,A
+Software Engineering,CS107,1,Sophia Johnson,sophia.johnson725@gmail.com,87.3,B
+Software Engineering,CS107,2,Sophia Johnson,sophia.johnson725@gmail.com,77.6,C
+Computer Networks,CS108,1,Sophia Johnson,sophia.johnson725@gmail.com,82.4,B
+Python Programming,CS101,1,Maria Ali,maria.ali235@gmail.com,77.8,C
+Python Programming,CS101,2,Maria Ali,maria.ali235@gmail.com,71.7,C
+Data Structures,CS102,1,Maria Ali,maria.ali235@gmail.com,72.8,C
+Data Structures,CS102,2,Maria Ali,maria.ali235@gmail.com,72.2,C
+Data Structures,CS102,3,Maria Ali,maria.ali235@gmail.com,84.6,B
+Database Management,CS103,1,Maria Ali,maria.ali235@gmail.com,80.5,B
+Database Management,CS103,2,Maria Ali,maria.ali235@gmail.com,62.1,D
+Web Development,CS104,1,Maria Ali,maria.ali235@gmail.com,75.7,C
+Web Development,CS104,2,Maria Ali,maria.ali235@gmail.com,87.1,B
+Machine Learning,CS105,1,Maria Ali,maria.ali235@gmail.com,70.0,C
+Algorithms,CS106,1,Maria Ali,maria.ali235@gmail.com,66.2,D
+Algorithms,CS106,2,Maria Ali,maria.ali235@gmail.com,82.9,B
+Software Engineering,CS107,1,Maria Ali,maria.ali235@gmail.com,74.5,C
+Software Engineering,CS107,2,Maria Ali,maria.ali235@gmail.com,71.9,C
+Software Engineering,CS107,3,Maria Ali,maria.ali235@gmail.com,79.4,C
+Computer Networks,CS108,1,Maria Ali,maria.ali235@gmail.com,72.4,C
+Computer Networks,CS108,2,Maria Ali,maria.ali235@gmail.com,82.7,B
+Python Programming,CS101,1,Fatima Patel,fatima.patel928@gmail.com,76.8,C
+Python Programming,CS101,2,Fatima Patel,fatima.patel928@gmail.com,79.0,C
+Python Programming,CS101,3,Fatima Patel,fatima.patel928@gmail.com,85.0,B
+Data Structures,CS102,1,Fatima Patel,fatima.patel928@gmail.com,92.6,A
+Data Structures,CS102,2,Fatima Patel,fatima.patel928@gmail.com,80.7,B
+Database Management,CS103,1,Fatima Patel,fatima.patel928@gmail.com,73.5,C
+Database Management,CS103,2,Fatima Patel,fatima.patel928@gmail.com,93.3,A
+Database Management,CS103,3,Fatima Patel,fatima.patel928@gmail.com,88.5,B
+Web Development,CS104,1,Fatima Patel,fatima.patel928@gmail.com,70.6,C
+Web Development,CS104,2,Fatima Patel,fatima.patel928@gmail.com,98.8,A
+Machine Learning,CS105,1,Fatima Patel,fatima.patel928@gmail.com,66.5,D
+Machine Learning,CS105,2,Fatima Patel,fatima.patel928@gmail.com,90.6,A
+Machine Learning,CS105,3,Fatima Patel,fatima.patel928@gmail.com,100.0,A
+Algorithms,CS106,1,Fatima Patel,fatima.patel928@gmail.com,70.9,C
+Software Engineering,CS107,1,Fatima Patel,fatima.patel928@gmail.com,65.2,D
+Computer Networks,CS108,1,Fatima Patel,fatima.patel928@gmail.com,88.3,B
+Computer Networks,CS108,2,Fatima Patel,fatima.patel928@gmail.com,98.2,A
+Python Programming,CS101,1,Michael Robinson,michael.robinson881@gmail.com,100.0,A
+Python Programming,CS101,2,Michael Robinson,michael.robinson881@gmail.com,89.8,B
+Python Programming,CS101,3,Michael Robinson,michael.robinson881@gmail.com,89.7,B
+Data Structures,CS102,1,Michael Robinson,michael.robinson881@gmail.com,82.4,B
+Database Management,CS103,1,Michael Robinson,michael.robinson881@gmail.com,76.1,C
+Database Management,CS103,2,Michael Robinson,michael.robinson881@gmail.com,100.0,A
+Database Management,CS103,3,Michael Robinson,michael.robinson881@gmail.com,100.0,A
+Web Development,CS104,1,Michael Robinson,michael.robinson881@gmail.com,95.0,A
+Web Development,CS104,2,Michael Robinson,michael.robinson881@gmail.com,100.0,A
+Web Development,CS104,3,Michael Robinson,michael.robinson881@gmail.com,100.0,A
+Machine Learning,CS105,1,Michael Robinson,michael.robinson881@gmail.com,100.0,A
+Machine Learning,CS105,2,Michael Robinson,michael.robinson881@gmail.com,86.3,B
+Machine Learning,CS105,3,Michael Robinson,michael.robinson881@gmail.com,100.0,A
+Algorithms,CS106,1,Michael Robinson,michael.robinson881@gmail.com,84.6,B
+Software Engineering,CS107,1,Michael Robinson,michael.robinson881@gmail.com,83.2,B
+Software Engineering,CS107,2,Michael Robinson,michael.robinson881@gmail.com,100.0,A
+Software Engineering,CS107,3,Michael Robinson,michael.robinson881@gmail.com,96.0,A
+Computer Networks,CS108,1,Michael Robinson,michael.robinson881@gmail.com,79.9,C
+Computer Networks,CS108,2,Michael Robinson,michael.robinson881@gmail.com,85.6,B
+Computer Networks,CS108,3,Michael Robinson,michael.robinson881@gmail.com,98.7,A
+Python Programming,CS101,1,Ava Allen,ava.allen73@student.edu,64.2,D
+Python Programming,CS101,2,Ava Allen,ava.allen73@student.edu,68.8,D
+Data Structures,CS102,1,Ava Allen,ava.allen73@student.edu,53.7,F
+Data Structures,CS102,2,Ava Allen,ava.allen73@student.edu,77.7,C
+Data Structures,CS102,3,Ava Allen,ava.allen73@student.edu,90.9,A
+Database Management,CS103,1,Ava Allen,ava.allen73@student.edu,75.9,C
+Database Management,CS103,2,Ava Allen,ava.allen73@student.edu,74.0,C
+Web Development,CS104,1,Ava Allen,ava.allen73@student.edu,74.5,C
+Web Development,CS104,2,Ava Allen,ava.allen73@student.edu,75.5,C
+Web Development,CS104,3,Ava Allen,ava.allen73@student.edu,75.9,C
+Machine Learning,CS105,1,Ava Allen,ava.allen73@student.edu,71.3,C
+Machine Learning,CS105,2,Ava Allen,ava.allen73@student.edu,63.4,D
+Algorithms,CS106,1,Ava Allen,ava.allen73@student.edu,79.3,C
+Algorithms,CS106,2,Ava Allen,ava.allen73@student.edu,84.0,B
+Software Engineering,CS107,1,Ava Allen,ava.allen73@student.edu,53.9,F
+Software Engineering,CS107,2,Ava Allen,ava.allen73@student.edu,64.3,D
+Software Engineering,CS107,3,Ava Allen,ava.allen73@student.edu,67.0,D
+Computer Networks,CS108,1,Ava Allen,ava.allen73@student.edu,65.3,D
+Computer Networks,CS108,2,Ava Allen,ava.allen73@student.edu,81.9,B
+Python Programming,CS101,1,Isabella Williams,isabella.williams286@outlook.com,75.3,C
+Python Programming,CS101,2,Isabella Williams,isabella.williams286@outlook.com,60.1,D
+Data Structures,CS102,1,Isabella Williams,isabella.williams286@outlook.com,54.6,F
+Database Management,CS103,1,Isabella Williams,isabella.williams286@outlook.com,55.0,F
+Database Management,CS103,2,Isabella Williams,isabella.williams286@outlook.com,64.0,D
+Web Development,CS104,1,Isabella Williams,isabella.williams286@outlook.com,58.5,F
+Machine Learning,CS105,1,Isabella Williams,isabella.williams286@outlook.com,59.5,F
+Algorithms,CS106,1,Isabella Williams,isabella.williams286@outlook.com,68.2,D
+Algorithms,CS106,2,Isabella Williams,isabella.williams286@outlook.com,76.3,C
+Software Engineering,CS107,1,Isabella Williams,isabella.williams286@outlook.com,69.3,D
+Software Engineering,CS107,2,Isabella Williams,isabella.williams286@outlook.com,64.5,D
+Computer Networks,CS108,1,Isabella Williams,isabella.williams286@outlook.com,56.1,F
+Python Programming,CS101,1,Emma Garcia,emma.garcia220@college.org,96.5,A
+Data Structures,CS102,1,Emma Garcia,emma.garcia220@college.org,100.0,A
+Data Structures,CS102,2,Emma Garcia,emma.garcia220@college.org,100.0,A
+Database Management,CS103,1,Emma Garcia,emma.garcia220@college.org,100.0,A
+Database Management,CS103,2,Emma Garcia,emma.garcia220@college.org,100.0,A
+Database Management,CS103,3,Emma Garcia,emma.garcia220@college.org,100.0,A
+Web Development,CS104,1,Emma Garcia,emma.garcia220@college.org,88.0,B
+Web Development,CS104,2,Emma Garcia,emma.garcia220@college.org,94.8,A
+Web Development,CS104,3,Emma Garcia,emma.garcia220@college.org,100.0,A
+Machine Learning,CS105,1,Emma Garcia,emma.garcia220@college.org,78.9,C
+Machine Learning,CS105,2,Emma Garcia,emma.garcia220@college.org,100.0,A
+Algorithms,CS106,1,Emma Garcia,emma.garcia220@college.org,91.3,A
+Algorithms,CS106,2,Emma Garcia,emma.garcia220@college.org,100.0,A
+Software Engineering,CS107,1,Emma Garcia,emma.garcia220@college.org,100.0,A
+Software Engineering,CS107,2,Emma Garcia,emma.garcia220@college.org,100.0,A
+Computer Networks,CS108,1,Emma Garcia,emma.garcia220@college.org,87.0,B
+Computer Networks,CS108,2,Emma Garcia,emma.garcia220@college.org,100.0,A
+Computer Networks,CS108,3,Emma Garcia,emma.garcia220@college.org,100.0,A
+Python Programming,CS101,1,Carlos Khan,carlos.khan741@outlook.com,87.0,B
+Python Programming,CS101,2,Carlos Khan,carlos.khan741@outlook.com,86.7,B
+Data Structures,CS102,1,Carlos Khan,carlos.khan741@outlook.com,72.1,C
+Data Structures,CS102,2,Carlos Khan,carlos.khan741@outlook.com,84.9,B
+Database Management,CS103,1,Carlos Khan,carlos.khan741@outlook.com,74.2,C
+Database Management,CS103,2,Carlos Khan,carlos.khan741@outlook.com,99.2,A
+Database Management,CS103,3,Carlos Khan,carlos.khan741@outlook.com,95.9,A
+Web Development,CS104,1,Carlos Khan,carlos.khan741@outlook.com,73.0,C
+Web Development,CS104,2,Carlos Khan,carlos.khan741@outlook.com,94.8,A
+Machine Learning,CS105,1,Carlos Khan,carlos.khan741@outlook.com,68.2,D
+Machine Learning,CS105,2,Carlos Khan,carlos.khan741@outlook.com,92.3,A
+Algorithms,CS106,1,Carlos Khan,carlos.khan741@outlook.com,77.2,C
+Algorithms,CS106,2,Carlos Khan,carlos.khan741@outlook.com,83.3,B
+Software Engineering,CS107,1,Carlos Khan,carlos.khan741@outlook.com,76.7,C
+Software Engineering,CS107,2,Carlos Khan,carlos.khan741@outlook.com,81.4,B
+Software Engineering,CS107,3,Carlos Khan,carlos.khan741@outlook.com,98.0,A
+Computer Networks,CS108,1,Carlos Khan,carlos.khan741@outlook.com,82.7,B
+Computer Networks,CS108,2,Carlos Khan,carlos.khan741@outlook.com,79.6,C
+Python Programming,CS101,1,Joseph King,joseph.king249@college.org,57.3,F
+Data Structures,CS102,1,Joseph King,joseph.king249@college.org,63.6,D
+Data Structures,CS102,2,Joseph King,joseph.king249@college.org,57.9,F
+Data Structures,CS102,3,Joseph King,joseph.king249@college.org,64.8,D
+Database Management,CS103,1,Joseph King,joseph.king249@college.org,68.2,D
+Web Development,CS104,1,Joseph King,joseph.king249@college.org,74.9,C
+Machine Learning,CS105,1,Joseph King,joseph.king249@college.org,74.1,C
+Machine Learning,CS105,2,Joseph King,joseph.king249@college.org,76.8,C
+Machine Learning,CS105,3,Joseph King,joseph.king249@college.org,58.1,F
+Algorithms,CS106,1,Joseph King,joseph.king249@college.org,61.5,D
+Algorithms,CS106,2,Joseph King,joseph.king249@college.org,56.0,F
+Software Engineering,CS107,1,Joseph King,joseph.king249@college.org,52.0,F
+Software Engineering,CS107,2,Joseph King,joseph.king249@college.org,71.3,C
+Computer Networks,CS108,1,Joseph King,joseph.king249@college.org,54.1,F
+Computer Networks,CS108,2,Joseph King,joseph.king249@college.org,65.0,D
+Computer Networks,CS108,3,Joseph King,joseph.king249@college.org,73.3,C
+Python Programming,CS101,1,Emma Walker,emma.walker827@college.org,87.2,B
+Python Programming,CS101,2,Emma Walker,emma.walker827@college.org,83.4,B
+Data Structures,CS102,1,Emma Walker,emma.walker827@college.org,71.8,C
+Data Structures,CS102,2,Emma Walker,emma.walker827@college.org,83.0,B
+Database Management,CS103,1,Emma Walker,emma.walker827@college.org,81.6,B
+Database Management,CS103,2,Emma Walker,emma.walker827@college.org,100.0,A
+Database Management,CS103,3,Emma Walker,emma.walker827@college.org,78.0,C
+Web Development,CS104,1,Emma Walker,emma.walker827@college.org,70.0,C
+Web Development,CS104,2,Emma Walker,emma.walker827@college.org,74.3,C
+Web Development,CS104,3,Emma Walker,emma.walker827@college.org,95.8,A
+Machine Learning,CS105,1,Emma Walker,emma.walker827@college.org,69.7,D
+Machine Learning,CS105,2,Emma Walker,emma.walker827@college.org,92.4,A
+Algorithms,CS106,1,Emma Walker,emma.walker827@college.org,69.8,D
+Algorithms,CS106,2,Emma Walker,emma.walker827@college.org,92.1,A
+Software Engineering,CS107,1,Emma Walker,emma.walker827@college.org,91.7,A
+Software Engineering,CS107,2,Emma Walker,emma.walker827@college.org,85.5,B
+Software Engineering,CS107,3,Emma Walker,emma.walker827@college.org,100.0,A
+Computer Networks,CS108,1,Emma Walker,emma.walker827@college.org,67.7,D
+Python Programming,CS101,1,Elena Robinson,elena.robinson195@college.org,71.2,C
+Python Programming,CS101,2,Elena Robinson,elena.robinson195@college.org,71.0,C
+Data Structures,CS102,1,Elena Robinson,elena.robinson195@college.org,68.1,D
+Data Structures,CS102,2,Elena Robinson,elena.robinson195@college.org,72.7,C
+Database Management,CS103,1,Elena Robinson,elena.robinson195@college.org,65.5,D
+Database Management,CS103,2,Elena Robinson,elena.robinson195@college.org,78.2,C
+Web Development,CS104,1,Elena Robinson,elena.robinson195@college.org,52.7,F
+Web Development,CS104,2,Elena Robinson,elena.robinson195@college.org,81.3,B
+Web Development,CS104,3,Elena Robinson,elena.robinson195@college.org,88.5,B
+Machine Learning,CS105,1,Elena Robinson,elena.robinson195@college.org,65.0,D
+Machine Learning,CS105,2,Elena Robinson,elena.robinson195@college.org,63.2,D
+Machine Learning,CS105,3,Elena Robinson,elena.robinson195@college.org,74.9,C
+Algorithms,CS106,1,Elena Robinson,elena.robinson195@college.org,65.2,D
+Algorithms,CS106,2,Elena Robinson,elena.robinson195@college.org,70.3,C
+Software Engineering,CS107,1,Elena Robinson,elena.robinson195@college.org,60.7,D
+Computer Networks,CS108,1,Elena Robinson,elena.robinson195@college.org,72.1,C
+Computer Networks,CS108,2,Elena Robinson,elena.robinson195@college.org,73.2,C
+Python Programming,CS101,1,Ethan Khan,ethan.khan100@gmail.com,60.5,D
+Python Programming,CS101,2,Ethan Khan,ethan.khan100@gmail.com,59.7,F
+Data Structures,CS102,1,Ethan Khan,ethan.khan100@gmail.com,58.6,F
+Database Management,CS103,1,Ethan Khan,ethan.khan100@gmail.com,71.2,C
+Database Management,CS103,2,Ethan Khan,ethan.khan100@gmail.com,75.3,C
+Web Development,CS104,1,Ethan Khan,ethan.khan100@gmail.com,55.1,F
+Web Development,CS104,2,Ethan Khan,ethan.khan100@gmail.com,75.0,C
+Machine Learning,CS105,1,Ethan Khan,ethan.khan100@gmail.com,51.7,F
+Machine Learning,CS105,2,Ethan Khan,ethan.khan100@gmail.com,58.6,F
+Machine Learning,CS105,3,Ethan Khan,ethan.khan100@gmail.com,82.6,B
+Algorithms,CS106,1,Ethan Khan,ethan.khan100@gmail.com,74.9,C
+Algorithms,CS106,2,Ethan Khan,ethan.khan100@gmail.com,63.7,D
+Software Engineering,CS107,1,Ethan Khan,ethan.khan100@gmail.com,50.8,F
+Computer Networks,CS108,1,Ethan Khan,ethan.khan100@gmail.com,75.4,C
+Computer Networks,CS108,2,Ethan Khan,ethan.khan100@gmail.com,71.4,C
+Python Programming,CS101,1,Daniel Allen,daniel.allen363@college.org,63.4,D
+Data Structures,CS102,1,Daniel Allen,daniel.allen363@college.org,79.7,C
+Data Structures,CS102,2,Daniel Allen,daniel.allen363@college.org,79.0,C
+Data Structures,CS102,3,Daniel Allen,daniel.allen363@college.org,85.0,B
+Database Management,CS103,1,Daniel Allen,daniel.allen363@college.org,86.1,B
+Web Development,CS104,1,Daniel Allen,daniel.allen363@college.org,62.9,D
+Web Development,CS104,2,Daniel Allen,daniel.allen363@college.org,85.1,B
+Web Development,CS104,3,Daniel Allen,daniel.allen363@college.org,86.9,B
+Machine Learning,CS105,1,Daniel Allen,daniel.allen363@college.org,59.0,F
+Machine Learning,CS105,2,Daniel Allen,daniel.allen363@college.org,91.7,A
+Machine Learning,CS105,3,Daniel Allen,daniel.allen363@college.org,92.5,A
+Algorithms,CS106,1,Daniel Allen,daniel.allen363@college.org,73.2,C
+Software Engineering,CS107,1,Daniel Allen,daniel.allen363@college.org,74.9,C
+Software Engineering,CS107,2,Daniel Allen,daniel.allen363@college.org,74.6,C
+Computer Networks,CS108,1,Daniel Allen,daniel.allen363@college.org,65.9,D
+Python Programming,CS101,1,Maria Smith,maria.smith421@college.org,45.9,F
+Python Programming,CS101,2,Maria Smith,maria.smith421@college.org,48.6,F
+Data Structures,CS102,1,Maria Smith,maria.smith421@college.org,39.3,F
+Data Structures,CS102,2,Maria Smith,maria.smith421@college.org,56.1,F
+Data Structures,CS102,3,Maria Smith,maria.smith421@college.org,50.7,F
+Database Management,CS103,1,Maria Smith,maria.smith421@college.org,49.0,F
+Web Development,CS104,1,Maria Smith,maria.smith421@college.org,47.5,F
+Web Development,CS104,2,Maria Smith,maria.smith421@college.org,47.8,F
+Machine Learning,CS105,1,Maria Smith,maria.smith421@college.org,35.4,F
+Machine Learning,CS105,2,Maria Smith,maria.smith421@college.org,58.2,F
+Algorithms,CS106,1,Maria Smith,maria.smith421@college.org,49.1,F
+Software Engineering,CS107,1,Maria Smith,maria.smith421@college.org,39.6,F
+Software Engineering,CS107,2,Maria Smith,maria.smith421@college.org,42.0,F
+Computer Networks,CS108,1,Maria Smith,maria.smith421@college.org,39.3,F
+Computer Networks,CS108,2,Maria Smith,maria.smith421@college.org,50.1,F
+Computer Networks,CS108,3,Maria Smith,maria.smith421@college.org,64.1,D
+Python Programming,CS101,1,Wei Zhang,wei.zhang885@college.org,39.4,F
+Data Structures,CS102,1,Wei Zhang,wei.zhang885@college.org,52.9,F
+Data Structures,CS102,2,Wei Zhang,wei.zhang885@college.org,51.2,F
+Data Structures,CS102,3,Wei Zhang,wei.zhang885@college.org,53.9,F
+Database Management,CS103,1,Wei Zhang,wei.zhang885@college.org,47.6,F
+Web Development,CS104,1,Wei Zhang,wei.zhang885@college.org,49.4,F
+Machine Learning,CS105,1,Wei Zhang,wei.zhang885@college.org,42.9,F
+Machine Learning,CS105,2,Wei Zhang,wei.zhang885@college.org,47.3,F
+Algorithms,CS106,1,Wei Zhang,wei.zhang885@college.org,38.3,F
+Algorithms,CS106,2,Wei Zhang,wei.zhang885@college.org,54.2,F
+Algorithms,CS106,3,Wei Zhang,wei.zhang885@college.org,54.2,F
+Software Engineering,CS107,1,Wei Zhang,wei.zhang885@college.org,43.4,F
+Software Engineering,CS107,2,Wei Zhang,wei.zhang885@college.org,44.6,F
+Software Engineering,CS107,3,Wei Zhang,wei.zhang885@college.org,55.6,F
+Computer Networks,CS108,1,Wei Zhang,wei.zhang885@college.org,38.1,F
+Computer Networks,CS108,2,Wei Zhang,wei.zhang885@college.org,47.5,F
+Python Programming,CS101,1,Emily Anderson,emily.anderson690@gmail.com,72.9,C
+Python Programming,CS101,2,Emily Anderson,emily.anderson690@gmail.com,68.3,D
+Python Programming,CS101,3,Emily Anderson,emily.anderson690@gmail.com,84.1,B
+Data Structures,CS102,1,Emily Anderson,emily.anderson690@gmail.com,58.6,F
+Data Structures,CS102,2,Emily Anderson,emily.anderson690@gmail.com,62.1,D
+Database Management,CS103,1,Emily Anderson,emily.anderson690@gmail.com,73.3,C
+Database Management,CS103,2,Emily Anderson,emily.anderson690@gmail.com,63.6,D
+Database Management,CS103,3,Emily Anderson,emily.anderson690@gmail.com,80.1,B
+Web Development,CS104,1,Emily Anderson,emily.anderson690@gmail.com,71.7,C
+Web Development,CS104,2,Emily Anderson,emily.anderson690@gmail.com,78.0,C
+Web Development,CS104,3,Emily Anderson,emily.anderson690@gmail.com,87.0,B
+Machine Learning,CS105,1,Emily Anderson,emily.anderson690@gmail.com,57.9,F
+Algorithms,CS106,1,Emily Anderson,emily.anderson690@gmail.com,55.4,F
+Algorithms,CS106,2,Emily Anderson,emily.anderson690@gmail.com,76.4,C
+Algorithms,CS106,3,Emily Anderson,emily.anderson690@gmail.com,68.2,D
+Software Engineering,CS107,1,Emily Anderson,emily.anderson690@gmail.com,65.2,D
+Computer Networks,CS108,1,Emily Anderson,emily.anderson690@gmail.com,50.1,F
+Computer Networks,CS108,2,Emily Anderson,emily.anderson690@gmail.com,58.0,F
+Python Programming,CS101,1,Priya Martinez,priya.martinez63@gmail.com,53.0,F
+Python Programming,CS101,2,Priya Martinez,priya.martinez63@gmail.com,65.5,D
+Data Structures,CS102,1,Priya Martinez,priya.martinez63@gmail.com,63.9,D
+Data Structures,CS102,2,Priya Martinez,priya.martinez63@gmail.com,58.3,F
+Database Management,CS103,1,Priya Martinez,priya.martinez63@gmail.com,50.3,F
+Database Management,CS103,2,Priya Martinez,priya.martinez63@gmail.com,70.6,C
+Web Development,CS104,1,Priya Martinez,priya.martinez63@gmail.com,46.9,F
+Web Development,CS104,2,Priya Martinez,priya.martinez63@gmail.com,72.5,C
+Machine Learning,CS105,1,Priya Martinez,priya.martinez63@gmail.com,52.6,F
+Machine Learning,CS105,2,Priya Martinez,priya.martinez63@gmail.com,65.0,D
+Machine Learning,CS105,3,Priya Martinez,priya.martinez63@gmail.com,59.8,F
+Algorithms,CS106,1,Priya Martinez,priya.martinez63@gmail.com,53.8,F
+Algorithms,CS106,2,Priya Martinez,priya.martinez63@gmail.com,66.3,D
+Software Engineering,CS107,1,Priya Martinez,priya.martinez63@gmail.com,57.8,F
+Software Engineering,CS107,2,Priya Martinez,priya.martinez63@gmail.com,64.2,D
+Software Engineering,CS107,3,Priya Martinez,priya.martinez63@gmail.com,70.0,C
+Computer Networks,CS108,1,Priya Martinez,priya.martinez63@gmail.com,57.2,F
+Computer Networks,CS108,2,Priya Martinez,priya.martinez63@gmail.com,65.3,D
+Computer Networks,CS108,3,Priya Martinez,priya.martinez63@gmail.com,71.7,C
+Python Programming,CS101,1,Emily Miller,emily.miller746@college.org,63.9,D
+Python Programming,CS101,2,Emily Miller,emily.miller746@college.org,78.5,C
+Python Programming,CS101,3,Emily Miller,emily.miller746@college.org,75.6,C
+Data Structures,CS102,1,Emily Miller,emily.miller746@college.org,73.3,C
+Data Structures,CS102,2,Emily Miller,emily.miller746@college.org,89.7,B
+Data Structures,CS102,3,Emily Miller,emily.miller746@college.org,91.5,A
+Database Management,CS103,1,Emily Miller,emily.miller746@college.org,86.2,B
+Database Management,CS103,2,Emily Miller,emily.miller746@college.org,92.3,A
+Database Management,CS103,3,Emily Miller,emily.miller746@college.org,100.0,A
+Web Development,CS104,1,Emily Miller,emily.miller746@college.org,70.8,C
+Web Development,CS104,2,Emily Miller,emily.miller746@college.org,94.3,A
+Machine Learning,CS105,1,Emily Miller,emily.miller746@college.org,80.3,B
+Machine Learning,CS105,2,Emily Miller,emily.miller746@college.org,95.8,A
+Algorithms,CS106,1,Emily Miller,emily.miller746@college.org,68.0,D
+Algorithms,CS106,2,Emily Miller,emily.miller746@college.org,97.9,A
+Software Engineering,CS107,1,Emily Miller,emily.miller746@college.org,66.1,D
+Software Engineering,CS107,2,Emily Miller,emily.miller746@college.org,96.3,A
+Computer Networks,CS108,1,Emily Miller,emily.miller746@college.org,67.1,D
+Python Programming,CS101,1,Ava Singh,ava.singh820@student.edu,49.7,F
+Data Structures,CS102,1,Ava Singh,ava.singh820@student.edu,50.0,F
+Data Structures,CS102,2,Ava Singh,ava.singh820@student.edu,61.6,D
+Data Structures,CS102,3,Ava Singh,ava.singh820@student.edu,73.5,C
+Database Management,CS103,1,Ava Singh,ava.singh820@student.edu,67.3,D
+Web Development,CS104,1,Ava Singh,ava.singh820@student.edu,63.1,D
+Machine Learning,CS105,1,Ava Singh,ava.singh820@student.edu,45.7,F
+Algorithms,CS106,1,Ava Singh,ava.singh820@student.edu,62.9,D
+Software Engineering,CS107,1,Ava Singh,ava.singh820@student.edu,49.0,F
+Software Engineering,CS107,2,Ava Singh,ava.singh820@student.edu,65.2,D
+Software Engineering,CS107,3,Ava Singh,ava.singh820@student.edu,75.3,C
+Computer Networks,CS108,1,Ava Singh,ava.singh820@student.edu,53.3,F
+Computer Networks,CS108,2,Ava Singh,ava.singh820@student.edu,62.5,D
+Python Programming,CS101,1,Michael Martin,michael.martin255@gmail.com,39.9,F
+Data Structures,CS102,1,Michael Martin,michael.martin255@gmail.com,48.0,F
+Data Structures,CS102,2,Michael Martin,michael.martin255@gmail.com,50.0,F
+Data Structures,CS102,3,Michael Martin,michael.martin255@gmail.com,59.6,F
+Database Management,CS103,1,Michael Martin,michael.martin255@gmail.com,53.0,F
+Database Management,CS103,2,Michael Martin,michael.martin255@gmail.com,62.7,D
+Database Management,CS103,3,Michael Martin,michael.martin255@gmail.com,52.5,F
+Web Development,CS104,1,Michael Martin,michael.martin255@gmail.com,51.4,F
+Machine Learning,CS105,1,Michael Martin,michael.martin255@gmail.com,46.5,F
+Machine Learning,CS105,2,Michael Martin,michael.martin255@gmail.com,52.0,F
+Machine Learning,CS105,3,Michael Martin,michael.martin255@gmail.com,60.5,D
+Algorithms,CS106,1,Michael Martin,michael.martin255@gmail.com,51.8,F
+Algorithms,CS106,2,Michael Martin,michael.martin255@gmail.com,59.0,F
+Algorithms,CS106,3,Michael Martin,michael.martin255@gmail.com,65.6,D
+Software Engineering,CS107,1,Michael Martin,michael.martin255@gmail.com,55.2,F
+Computer Networks,CS108,1,Michael Martin,michael.martin255@gmail.com,40.9,F
+Computer Networks,CS108,2,Michael Martin,michael.martin255@gmail.com,58.0,F
+Python Programming,CS101,1,William King,william.king195@outlook.com,98.9,A
+Python Programming,CS101,2,William King,william.king195@outlook.com,83.3,B
+Data Structures,CS102,1,William King,william.king195@outlook.com,77.1,C
+Database Management,CS103,1,William King,william.king195@outlook.com,78.4,C
+Database Management,CS103,2,William King,william.king195@outlook.com,100.0,A
+Database Management,CS103,3,William King,william.king195@outlook.com,100.0,A
+Web Development,CS104,1,William King,william.king195@outlook.com,98.1,A
+Web Development,CS104,2,William King,william.king195@outlook.com,100.0,A
+Machine Learning,CS105,1,William King,william.king195@outlook.com,84.2,B
+Machine Learning,CS105,2,William King,william.king195@outlook.com,82.6,B
+Machine Learning,CS105,3,William King,william.king195@outlook.com,92.4,A
+Algorithms,CS106,1,William King,william.king195@outlook.com,77.6,C
+Algorithms,CS106,2,William King,william.king195@outlook.com,96.0,A
+Software Engineering,CS107,1,William King,william.king195@outlook.com,100.0,A
+Software Engineering,CS107,2,William King,william.king195@outlook.com,100.0,A
+Computer Networks,CS108,1,William King,william.king195@outlook.com,97.2,A
+Computer Networks,CS108,2,William King,william.king195@outlook.com,100.0,A
+Computer Networks,CS108,3,William King,william.king195@outlook.com,100.0,A
+Python Programming,CS101,1,James Williams,james.williams144@college.org,73.6,C
+Data Structures,CS102,1,James Williams,james.williams144@college.org,58.1,F
+Data Structures,CS102,2,James Williams,james.williams144@college.org,74.8,C
+Database Management,CS103,1,James Williams,james.williams144@college.org,70.2,C
+Web Development,CS104,1,James Williams,james.williams144@college.org,67.4,D
+Machine Learning,CS105,1,James Williams,james.williams144@college.org,62.4,D
+Machine Learning,CS105,2,James Williams,james.williams144@college.org,78.1,C
+Algorithms,CS106,1,James Williams,james.williams144@college.org,76.8,C
+Algorithms,CS106,2,James Williams,james.williams144@college.org,77.5,C
+Algorithms,CS106,3,James Williams,james.williams144@college.org,62.2,D
+Software Engineering,CS107,1,James Williams,james.williams144@college.org,66.2,D
+Software Engineering,CS107,2,James Williams,james.williams144@college.org,66.7,D
+Computer Networks,CS108,1,James Williams,james.williams144@college.org,64.7,D
+Computer Networks,CS108,2,James Williams,james.williams144@college.org,76.4,C
+Computer Networks,CS108,3,James Williams,james.williams144@college.org,83.9,B
+Python Programming,CS101,1,Mia Robinson,mia.robinson188@college.org,84.8,B
+Data Structures,CS102,1,Mia Robinson,mia.robinson188@college.org,65.4,D
+Database Management,CS103,1,Mia Robinson,mia.robinson188@college.org,78.5,C
+Web Development,CS104,1,Mia Robinson,mia.robinson188@college.org,57.0,F
+Web Development,CS104,2,Mia Robinson,mia.robinson188@college.org,70.0,C
+Machine Learning,CS105,1,Mia Robinson,mia.robinson188@college.org,63.3,D
+Machine Learning,CS105,2,Mia Robinson,mia.robinson188@college.org,82.7,B
+Algorithms,CS106,1,Mia Robinson,mia.robinson188@college.org,81.3,B
+Algorithms,CS106,2,Mia Robinson,mia.robinson188@college.org,60.6,D
+Software Engineering,CS107,1,Mia Robinson,mia.robinson188@college.org,73.2,C
+Computer Networks,CS108,1,Mia Robinson,mia.robinson188@college.org,75.0,C
+Computer Networks,CS108,2,Mia Robinson,mia.robinson188@college.org,73.3,C
+Computer Networks,CS108,3,Mia Robinson,mia.robinson188@college.org,81.2,B
+Python Programming,CS101,1,Sophia Singh,sophia.singh474@student.edu,52.3,F
+Python Programming,CS101,2,Sophia Singh,sophia.singh474@student.edu,52.9,F
+Python Programming,CS101,3,Sophia Singh,sophia.singh474@student.edu,54.9,F
+Data Structures,CS102,1,Sophia Singh,sophia.singh474@student.edu,46.6,F
+Data Structures,CS102,2,Sophia Singh,sophia.singh474@student.edu,50.7,F
+Database Management,CS103,1,Sophia Singh,sophia.singh474@student.edu,40.4,F
+Database Management,CS103,2,Sophia Singh,sophia.singh474@student.edu,56.7,F
+Web Development,CS104,1,Sophia Singh,sophia.singh474@student.edu,45.7,F
+Machine Learning,CS105,1,Sophia Singh,sophia.singh474@student.edu,51.5,F
+Machine Learning,CS105,2,Sophia Singh,sophia.singh474@student.edu,44.9,F
+Machine Learning,CS105,3,Sophia Singh,sophia.singh474@student.edu,51.9,F
+Algorithms,CS106,1,Sophia Singh,sophia.singh474@student.edu,51.7,F
+Software Engineering,CS107,1,Sophia Singh,sophia.singh474@student.edu,51.1,F
+Computer Networks,CS108,1,Sophia Singh,sophia.singh474@student.edu,53.7,F
+Computer Networks,CS108,2,Sophia Singh,sophia.singh474@student.edu,63.0,D
+Python Programming,CS101,1,Ava Walker,ava.walker896@outlook.com,73.9,C
+Python Programming,CS101,2,Ava Walker,ava.walker896@outlook.com,78.7,C
+Python Programming,CS101,3,Ava Walker,ava.walker896@outlook.com,70.8,C
+Data Structures,CS102,1,Ava Walker,ava.walker896@outlook.com,57.0,F
+Data Structures,CS102,2,Ava Walker,ava.walker896@outlook.com,55.8,F
+Database Management,CS103,1,Ava Walker,ava.walker896@outlook.com,60.9,D
+Database Management,CS103,2,Ava Walker,ava.walker896@outlook.com,61.9,D
+Database Management,CS103,3,Ava Walker,ava.walker896@outlook.com,75.4,C
+Web Development,CS104,1,Ava Walker,ava.walker896@outlook.com,62.0,D
+Machine Learning,CS105,1,Ava Walker,ava.walker896@outlook.com,73.1,C
+Machine Learning,CS105,2,Ava Walker,ava.walker896@outlook.com,58.7,F
+Algorithms,CS106,1,Ava Walker,ava.walker896@outlook.com,57.4,F
+Algorithms,CS106,2,Ava Walker,ava.walker896@outlook.com,59.5,F
+Algorithms,CS106,3,Ava Walker,ava.walker896@outlook.com,58.9,F
+Software Engineering,CS107,1,Ava Walker,ava.walker896@outlook.com,51.6,F
+Software Engineering,CS107,2,Ava Walker,ava.walker896@outlook.com,58.0,F
+Computer Networks,CS108,1,Ava Walker,ava.walker896@outlook.com,60.3,D
+Computer Networks,CS108,2,Ava Walker,ava.walker896@outlook.com,60.1,D
+Computer Networks,CS108,3,Ava Walker,ava.walker896@outlook.com,67.7,D
+Python Programming,CS101,1,David Wright,david.wright454@gmail.com,76.8,C
+Python Programming,CS101,2,David Wright,david.wright454@gmail.com,78.8,C
+Data Structures,CS102,1,David Wright,david.wright454@gmail.com,60.0,D
+Data Structures,CS102,2,David Wright,david.wright454@gmail.com,73.2,C
+Database Management,CS103,1,David Wright,david.wright454@gmail.com,85.0,B
+Database Management,CS103,2,David Wright,david.wright454@gmail.com,68.9,D
+Database Management,CS103,3,David Wright,david.wright454@gmail.com,83.5,B
+Web Development,CS104,1,David Wright,david.wright454@gmail.com,76.1,C
+Web Development,CS104,2,David Wright,david.wright454@gmail.com,68.7,D
+Machine Learning,CS105,1,David Wright,david.wright454@gmail.com,66.2,D
+Machine Learning,CS105,2,David Wright,david.wright454@gmail.com,85.7,B
+Machine Learning,CS105,3,David Wright,david.wright454@gmail.com,93.9,A
+Algorithms,CS106,1,David Wright,david.wright454@gmail.com,83.5,B
+Algorithms,CS106,2,David Wright,david.wright454@gmail.com,80.2,B
+Algorithms,CS106,3,David Wright,david.wright454@gmail.com,71.0,C
+Software Engineering,CS107,1,David Wright,david.wright454@gmail.com,63.5,D
+Software Engineering,CS107,2,David Wright,david.wright454@gmail.com,80.9,B
+Computer Networks,CS108,1,David Wright,david.wright454@gmail.com,61.8,D
+Python Programming,CS101,1,Chloe Young,chloe.young52@gmail.com,44.3,F
+Python Programming,CS101,2,Chloe Young,chloe.young52@gmail.com,68.2,D
+Data Structures,CS102,1,Chloe Young,chloe.young52@gmail.com,49.3,F
+Data Structures,CS102,2,Chloe Young,chloe.young52@gmail.com,53.3,F
+Data Structures,CS102,3,Chloe Young,chloe.young52@gmail.com,56.9,F
+Database Management,CS103,1,Chloe Young,chloe.young52@gmail.com,59.3,F
+Database Management,CS103,2,Chloe Young,chloe.young52@gmail.com,55.6,F
+Database Management,CS103,3,Chloe Young,chloe.young52@gmail.com,68.2,D
+Web Development,CS104,1,Chloe Young,chloe.young52@gmail.com,55.1,F
+Machine Learning,CS105,1,Chloe Young,chloe.young52@gmail.com,47.1,F
+Machine Learning,CS105,2,Chloe Young,chloe.young52@gmail.com,67.2,D
+Machine Learning,CS105,3,Chloe Young,chloe.young52@gmail.com,78.2,C
+Algorithms,CS106,1,Chloe Young,chloe.young52@gmail.com,62.2,D
+Software Engineering,CS107,1,Chloe Young,chloe.young52@gmail.com,48.1,F
+Software Engineering,CS107,2,Chloe Young,chloe.young52@gmail.com,59.0,F
+Computer Networks,CS108,1,Chloe Young,chloe.young52@gmail.com,59.1,F
+Python Programming,CS101,1,Elena Jones,elena.jones993@gmail.com,62.1,D
+Data Structures,CS102,1,Elena Jones,elena.jones993@gmail.com,77.3,C
+Data Structures,CS102,2,Elena Jones,elena.jones993@gmail.com,89.8,B
+Database Management,CS103,1,Elena Jones,elena.jones993@gmail.com,83.6,B
+Web Development,CS104,1,Elena Jones,elena.jones993@gmail.com,76.0,C
+Web Development,CS104,2,Elena Jones,elena.jones993@gmail.com,72.1,C
+Machine Learning,CS105,1,Elena Jones,elena.jones993@gmail.com,87.3,B
+Algorithms,CS106,1,Elena Jones,elena.jones993@gmail.com,72.5,C
+Software Engineering,CS107,1,Elena Jones,elena.jones993@gmail.com,90.6,A
+Software Engineering,CS107,2,Elena Jones,elena.jones993@gmail.com,67.0,D
+Computer Networks,CS108,1,Elena Jones,elena.jones993@gmail.com,80.2,B
+Python Programming,CS101,1,Liam Khan,liam.khan949@gmail.com,55.8,F
+Data Structures,CS102,1,Liam Khan,liam.khan949@gmail.com,52.2,F
+Data Structures,CS102,2,Liam Khan,liam.khan949@gmail.com,67.7,D
+Database Management,CS103,1,Liam Khan,liam.khan949@gmail.com,49.3,F
+Web Development,CS104,1,Liam Khan,liam.khan949@gmail.com,62.2,D
+Machine Learning,CS105,1,Liam Khan,liam.khan949@gmail.com,59.1,F
+Machine Learning,CS105,2,Liam Khan,liam.khan949@gmail.com,63.0,D
+Machine Learning,CS105,3,Liam Khan,liam.khan949@gmail.com,62.3,D
+Algorithms,CS106,1,Liam Khan,liam.khan949@gmail.com,59.9,F
+Algorithms,CS106,2,Liam Khan,liam.khan949@gmail.com,74.7,C
+Algorithms,CS106,3,Liam Khan,liam.khan949@gmail.com,63.5,D
+Software Engineering,CS107,1,Liam Khan,liam.khan949@gmail.com,66.3,D
+Software Engineering,CS107,2,Liam Khan,liam.khan949@gmail.com,53.9,F
+Software Engineering,CS107,3,Liam Khan,liam.khan949@gmail.com,73.7,C
+Computer Networks,CS108,1,Liam Khan,liam.khan949@gmail.com,50.9,F
+Python Programming,CS101,1,David Garcia,david.garcia171@outlook.com,66.3,D
+Python Programming,CS101,2,David Garcia,david.garcia171@outlook.com,85.0,B
+Data Structures,CS102,1,David Garcia,david.garcia171@outlook.com,75.4,C
+Data Structures,CS102,2,David Garcia,david.garcia171@outlook.com,66.0,D
+Data Structures,CS102,3,David Garcia,david.garcia171@outlook.com,83.3,B
+Database Management,CS103,1,David Garcia,david.garcia171@outlook.com,61.6,D
+Database Management,CS103,2,David Garcia,david.garcia171@outlook.com,77.1,C
+Web Development,CS104,1,David Garcia,david.garcia171@outlook.com,61.2,D
+Web Development,CS104,2,David Garcia,david.garcia171@outlook.com,70.1,C
+Web Development,CS104,3,David Garcia,david.garcia171@outlook.com,74.5,C
+Machine Learning,CS105,1,David Garcia,david.garcia171@outlook.com,70.8,C
+Machine Learning,CS105,2,David Garcia,david.garcia171@outlook.com,81.2,B
+Machine Learning,CS105,3,David Garcia,david.garcia171@outlook.com,79.8,C
+Algorithms,CS106,1,David Garcia,david.garcia171@outlook.com,57.8,F
+Algorithms,CS106,2,David Garcia,david.garcia171@outlook.com,84.3,B
+Software Engineering,CS107,1,David Garcia,david.garcia171@outlook.com,66.0,D
+Software Engineering,CS107,2,David Garcia,david.garcia171@outlook.com,76.7,C
+Computer Networks,CS108,1,David Garcia,david.garcia171@outlook.com,69.5,D
+Computer Networks,CS108,2,David Garcia,david.garcia171@outlook.com,80.1,B
+Python Programming,CS101,1,Fatima Miller,fatima.miller498@college.org,56.9,F
+Data Structures,CS102,1,Fatima Miller,fatima.miller498@college.org,59.4,F
+Database Management,CS103,1,Fatima Miller,fatima.miller498@college.org,70.6,C
+Database Management,CS103,2,Fatima Miller,fatima.miller498@college.org,78.2,C
+Web Development,CS104,1,Fatima Miller,fatima.miller498@college.org,57.7,F
+Web Development,CS104,2,Fatima Miller,fatima.miller498@college.org,63.9,D
+Machine Learning,CS105,1,Fatima Miller,fatima.miller498@college.org,50.7,F
+Algorithms,CS106,1,Fatima Miller,fatima.miller498@college.org,53.2,F
+Algorithms,CS106,2,Fatima Miller,fatima.miller498@college.org,56.3,F
+Algorithms,CS106,3,Fatima Miller,fatima.miller498@college.org,66.6,D
+Software Engineering,CS107,1,Fatima Miller,fatima.miller498@college.org,59.2,F
+Software Engineering,CS107,2,Fatima Miller,fatima.miller498@college.org,65.2,D
+Computer Networks,CS108,1,Fatima Miller,fatima.miller498@college.org,71.0,C
+Python Programming,CS101,1,Aiden Anderson,aiden.anderson219@college.org,89.0,B
+Python Programming,CS101,2,Aiden Anderson,aiden.anderson219@college.org,100.0,A
+Python Programming,CS101,3,Aiden Anderson,aiden.anderson219@college.org,100.0,A
+Data Structures,CS102,1,Aiden Anderson,aiden.anderson219@college.org,100.0,A
+Data Structures,CS102,2,Aiden Anderson,aiden.anderson219@college.org,83.6,B
+Database Management,CS103,1,Aiden Anderson,aiden.anderson219@college.org,95.4,A
+Database Management,CS103,2,Aiden Anderson,aiden.anderson219@college.org,91.3,A
+Database Management,CS103,3,Aiden Anderson,aiden.anderson219@college.org,100.0,A
+Web Development,CS104,1,Aiden Anderson,aiden.anderson219@college.org,84.2,B
+Web Development,CS104,2,Aiden Anderson,aiden.anderson219@college.org,98.9,A
+Web Development,CS104,3,Aiden Anderson,aiden.anderson219@college.org,93.4,A
+Machine Learning,CS105,1,Aiden Anderson,aiden.anderson219@college.org,93.8,A
+Algorithms,CS106,1,Aiden Anderson,aiden.anderson219@college.org,100.0,A
+Algorithms,CS106,2,Aiden Anderson,aiden.anderson219@college.org,88.7,B
+Algorithms,CS106,3,Aiden Anderson,aiden.anderson219@college.org,100.0,A
+Software Engineering,CS107,1,Aiden Anderson,aiden.anderson219@college.org,88.4,B
+Computer Networks,CS108,1,Aiden Anderson,aiden.anderson219@college.org,100.0,A
+Computer Networks,CS108,2,Aiden Anderson,aiden.anderson219@college.org,100.0,A
+Python Programming,CS101,1,Mia Lee,mia.lee925@college.org,79.6,C
+Data Structures,CS102,1,Mia Lee,mia.lee925@college.org,75.8,C
+Data Structures,CS102,2,Mia Lee,mia.lee925@college.org,88.4,B
+Database Management,CS103,1,Mia Lee,mia.lee925@college.org,75.6,C
+Database Management,CS103,2,Mia Lee,mia.lee925@college.org,70.8,C
+Web Development,CS104,1,Mia Lee,mia.lee925@college.org,75.7,C
+Web Development,CS104,2,Mia Lee,mia.lee925@college.org,83.1,B
+Machine Learning,CS105,1,Mia Lee,mia.lee925@college.org,59.2,F
+Machine Learning,CS105,2,Mia Lee,mia.lee925@college.org,64.1,D
+Algorithms,CS106,1,Mia Lee,mia.lee925@college.org,71.3,C
+Algorithms,CS106,2,Mia Lee,mia.lee925@college.org,83.9,B
+Software Engineering,CS107,1,Mia Lee,mia.lee925@college.org,80.5,B
+Software Engineering,CS107,2,Mia Lee,mia.lee925@college.org,70.4,C
+Software Engineering,CS107,3,Mia Lee,mia.lee925@college.org,85.2,B
+Computer Networks,CS108,1,Mia Lee,mia.lee925@college.org,78.8,C
+Computer Networks,CS108,2,Mia Lee,mia.lee925@college.org,86.5,B
+Python Programming,CS101,1,Wei Lee,wei.lee169@gmail.com,53.4,F
+Python Programming,CS101,2,Wei Lee,wei.lee169@gmail.com,52.7,F
+Python Programming,CS101,3,Wei Lee,wei.lee169@gmail.com,72.9,C
+Data Structures,CS102,1,Wei Lee,wei.lee169@gmail.com,64.2,D
+Data Structures,CS102,2,Wei Lee,wei.lee169@gmail.com,69.1,D
+Data Structures,CS102,3,Wei Lee,wei.lee169@gmail.com,52.8,F
+Database Management,CS103,1,Wei Lee,wei.lee169@gmail.com,46.8,F
+Web Development,CS104,1,Wei Lee,wei.lee169@gmail.com,63.8,D
+Web Development,CS104,2,Wei Lee,wei.lee169@gmail.com,56.1,F
+Web Development,CS104,3,Wei Lee,wei.lee169@gmail.com,54.7,F
+Machine Learning,CS105,1,Wei Lee,wei.lee169@gmail.com,56.8,F
+Machine Learning,CS105,2,Wei Lee,wei.lee169@gmail.com,52.6,F
+Machine Learning,CS105,3,Wei Lee,wei.lee169@gmail.com,71.1,C
+Algorithms,CS106,1,Wei Lee,wei.lee169@gmail.com,57.6,F
+Algorithms,CS106,2,Wei Lee,wei.lee169@gmail.com,64.5,D
+Algorithms,CS106,3,Wei Lee,wei.lee169@gmail.com,73.3,C
+Software Engineering,CS107,1,Wei Lee,wei.lee169@gmail.com,63.8,D
+Computer Networks,CS108,1,Wei Lee,wei.lee169@gmail.com,47.9,F
+Computer Networks,CS108,2,Wei Lee,wei.lee169@gmail.com,63.7,D
+Computer Networks,CS108,3,Wei Lee,wei.lee169@gmail.com,69.0,D
+Python Programming,CS101,1,William Martinez,william.martinez3@college.org,97.4,A
+Python Programming,CS101,2,William Martinez,william.martinez3@college.org,98.8,A
+Python Programming,CS101,3,William Martinez,william.martinez3@college.org,91.3,A
+Data Structures,CS102,1,William Martinez,william.martinez3@college.org,71.1,C
+Database Management,CS103,1,William Martinez,william.martinez3@college.org,72.6,C
+Database Management,CS103,2,William Martinez,william.martinez3@college.org,83.4,B
+Web Development,CS104,1,William Martinez,william.martinez3@college.org,98.4,A
+Web Development,CS104,2,William Martinez,william.martinez3@college.org,84.4,B
+Web Development,CS104,3,William Martinez,william.martinez3@college.org,99.5,A
+Machine Learning,CS105,1,William Martinez,william.martinez3@college.org,81.2,B
+Algorithms,CS106,1,William Martinez,william.martinez3@college.org,70.5,C
+Algorithms,CS106,2,William Martinez,william.martinez3@college.org,100.0,A
+Software Engineering,CS107,1,William Martinez,william.martinez3@college.org,97.6,A
+Software Engineering,CS107,2,William Martinez,william.martinez3@college.org,100.0,A
+Software Engineering,CS107,3,William Martinez,william.martinez3@college.org,100.0,A
+Computer Networks,CS108,1,William Martinez,william.martinez3@college.org,82.3,B
+Python Programming,CS101,1,Maria Jones,maria.jones272@college.org,59.5,F
+Python Programming,CS101,2,Maria Jones,maria.jones272@college.org,49.7,F
+Python Programming,CS101,3,Maria Jones,maria.jones272@college.org,62.3,D
+Data Structures,CS102,1,Maria Jones,maria.jones272@college.org,48.6,F
+Database Management,CS103,1,Maria Jones,maria.jones272@college.org,53.7,F
+Web Development,CS104,1,Maria Jones,maria.jones272@college.org,47.3,F
+Web Development,CS104,2,Maria Jones,maria.jones272@college.org,46.6,F
+Web Development,CS104,3,Maria Jones,maria.jones272@college.org,54.7,F
+Machine Learning,CS105,1,Maria Jones,maria.jones272@college.org,48.9,F
+Machine Learning,CS105,2,Maria Jones,maria.jones272@college.org,58.9,F
+Algorithms,CS106,1,Maria Jones,maria.jones272@college.org,47.3,F
+Software Engineering,CS107,1,Maria Jones,maria.jones272@college.org,57.2,F
+Software Engineering,CS107,2,Maria Jones,maria.jones272@college.org,66.8,D
+Computer Networks,CS108,1,Maria Jones,maria.jones272@college.org,44.0,F
+Computer Networks,CS108,2,Maria Jones,maria.jones272@college.org,52.7,F
+Computer Networks,CS108,3,Maria Jones,maria.jones272@college.org,72.7,C
+Python Programming,CS101,1,Henry Chen,henry.chen293@college.org,64.3,D
+Python Programming,CS101,2,Henry Chen,henry.chen293@college.org,79.7,C
+Data Structures,CS102,1,Henry Chen,henry.chen293@college.org,79.4,C
+Database Management,CS103,1,Henry Chen,henry.chen293@college.org,62.9,D
+Database Management,CS103,2,Henry Chen,henry.chen293@college.org,71.8,C
+Web Development,CS104,1,Henry Chen,henry.chen293@college.org,70.0,C
+Web Development,CS104,2,Henry Chen,henry.chen293@college.org,90.5,A
+Web Development,CS104,3,Henry Chen,henry.chen293@college.org,87.7,B
+Machine Learning,CS105,1,Henry Chen,henry.chen293@college.org,79.2,C
+Machine Learning,CS105,2,Henry Chen,henry.chen293@college.org,87.5,B
+Machine Learning,CS105,3,Henry Chen,henry.chen293@college.org,89.4,B
+Algorithms,CS106,1,Henry Chen,henry.chen293@college.org,81.8,B
+Algorithms,CS106,2,Henry Chen,henry.chen293@college.org,86.7,B
+Software Engineering,CS107,1,Henry Chen,henry.chen293@college.org,66.3,D
+Computer Networks,CS108,1,Henry Chen,henry.chen293@college.org,81.2,B
+Computer Networks,CS108,2,Henry Chen,henry.chen293@college.org,86.7,B
+Computer Networks,CS108,3,Henry Chen,henry.chen293@college.org,77.7,C
+Python Programming,CS101,1,Lucas Ali,lucas.ali714@college.org,45.1,F
+Python Programming,CS101,2,Lucas Ali,lucas.ali714@college.org,51.5,F
+Python Programming,CS101,3,Lucas Ali,lucas.ali714@college.org,51.2,F
+Data Structures,CS102,1,Lucas Ali,lucas.ali714@college.org,32.8,F
+Data Structures,CS102,2,Lucas Ali,lucas.ali714@college.org,40.1,F
+Data Structures,CS102,3,Lucas Ali,lucas.ali714@college.org,54.8,F
+Database Management,CS103,1,Lucas Ali,lucas.ali714@college.org,46.7,F
+Database Management,CS103,2,Lucas Ali,lucas.ali714@college.org,41.6,F
+Database Management,CS103,3,Lucas Ali,lucas.ali714@college.org,43.8,F
+Web Development,CS104,1,Lucas Ali,lucas.ali714@college.org,40.3,F
+Web Development,CS104,2,Lucas Ali,lucas.ali714@college.org,53.7,F
+Machine Learning,CS105,1,Lucas Ali,lucas.ali714@college.org,38.0,F
+Machine Learning,CS105,2,Lucas Ali,lucas.ali714@college.org,50.5,F
+Algorithms,CS106,1,Lucas Ali,lucas.ali714@college.org,45.5,F
+Algorithms,CS106,2,Lucas Ali,lucas.ali714@college.org,45.2,F
+Algorithms,CS106,3,Lucas Ali,lucas.ali714@college.org,56.4,F
+Software Engineering,CS107,1,Lucas Ali,lucas.ali714@college.org,48.3,F
+Software Engineering,CS107,2,Lucas Ali,lucas.ali714@college.org,42.3,F
+Computer Networks,CS108,1,Lucas Ali,lucas.ali714@college.org,40.4,F
+Python Programming,CS101,1,Wei Hernandez,wei.hernandez159@college.org,58.8,F
+Python Programming,CS101,2,Wei Hernandez,wei.hernandez159@college.org,54.1,F
+Data Structures,CS102,1,Wei Hernandez,wei.hernandez159@college.org,50.9,F
+Database Management,CS103,1,Wei Hernandez,wei.hernandez159@college.org,59.2,F
+Database Management,CS103,2,Wei Hernandez,wei.hernandez159@college.org,54.5,F
+Web Development,CS104,1,Wei Hernandez,wei.hernandez159@college.org,41.6,F
+Web Development,CS104,2,Wei Hernandez,wei.hernandez159@college.org,62.7,D
+Machine Learning,CS105,1,Wei Hernandez,wei.hernandez159@college.org,44.1,F
+Machine Learning,CS105,2,Wei Hernandez,wei.hernandez159@college.org,65.5,D
+Machine Learning,CS105,3,Wei Hernandez,wei.hernandez159@college.org,58.6,F
+Algorithms,CS106,1,Wei Hernandez,wei.hernandez159@college.org,44.9,F
+Algorithms,CS106,2,Wei Hernandez,wei.hernandez159@college.org,61.5,D
+Algorithms,CS106,3,Wei Hernandez,wei.hernandez159@college.org,53.9,F
+Software Engineering,CS107,1,Wei Hernandez,wei.hernandez159@college.org,54.4,F
+Computer Networks,CS108,1,Wei Hernandez,wei.hernandez159@college.org,42.8,F
+Python Programming,CS101,1,Aiden Anderson,aiden.anderson304@outlook.com,63.0,D
+Python Programming,CS101,2,Aiden Anderson,aiden.anderson304@outlook.com,91.6,A
+Python Programming,CS101,3,Aiden Anderson,aiden.anderson304@outlook.com,90.0,A
+Data Structures,CS102,1,Aiden Anderson,aiden.anderson304@outlook.com,77.2,C
+Data Structures,CS102,2,Aiden Anderson,aiden.anderson304@outlook.com,70.3,C
+Database Management,CS103,1,Aiden Anderson,aiden.anderson304@outlook.com,79.9,C
+Database Management,CS103,2,Aiden Anderson,aiden.anderson304@outlook.com,68.4,D
+Database Management,CS103,3,Aiden Anderson,aiden.anderson304@outlook.com,89.5,B
+Web Development,CS104,1,Aiden Anderson,aiden.anderson304@outlook.com,59.4,F
+Machine Learning,CS105,1,Aiden Anderson,aiden.anderson304@outlook.com,63.8,D
+Machine Learning,CS105,2,Aiden Anderson,aiden.anderson304@outlook.com,92.1,A
+Algorithms,CS106,1,Aiden Anderson,aiden.anderson304@outlook.com,58.6,F
+Algorithms,CS106,2,Aiden Anderson,aiden.anderson304@outlook.com,68.5,D
+Software Engineering,CS107,1,Aiden Anderson,aiden.anderson304@outlook.com,87.2,B
+Software Engineering,CS107,2,Aiden Anderson,aiden.anderson304@outlook.com,79.6,C
+Computer Networks,CS108,1,Aiden Anderson,aiden.anderson304@outlook.com,72.0,C
+Python Programming,CS101,1,Harper Khan,harper.khan992@outlook.com,75.6,C
+Data Structures,CS102,1,Harper Khan,harper.khan992@outlook.com,73.2,C
+Data Structures,CS102,2,Harper Khan,harper.khan992@outlook.com,93.1,A
+Data Structures,CS102,3,Harper Khan,harper.khan992@outlook.com,100.0,A
+Database Management,CS103,1,Harper Khan,harper.khan992@outlook.com,92.6,A
+Web Development,CS104,1,Harper Khan,harper.khan992@outlook.com,81.6,B
+Web Development,CS104,2,Harper Khan,harper.khan992@outlook.com,90.2,A
+Machine Learning,CS105,1,Harper Khan,harper.khan992@outlook.com,80.3,B
+Algorithms,CS106,1,Harper Khan,harper.khan992@outlook.com,77.3,C
+Software Engineering,CS107,1,Harper Khan,harper.khan992@outlook.com,95.8,A
+Software Engineering,CS107,2,Harper Khan,harper.khan992@outlook.com,93.4,A
+Computer Networks,CS108,1,Harper Khan,harper.khan992@outlook.com,76.5,C
+Python Programming,CS101,1,Jacob Brown,jacob.brown594@gmail.com,61.5,D
+Data Structures,CS102,1,Jacob Brown,jacob.brown594@gmail.com,78.0,C
+Data Structures,CS102,2,Jacob Brown,jacob.brown594@gmail.com,93.3,A
+Database Management,CS103,1,Jacob Brown,jacob.brown594@gmail.com,76.6,C
+Database Management,CS103,2,Jacob Brown,jacob.brown594@gmail.com,78.3,C
+Web Development,CS104,1,Jacob Brown,jacob.brown594@gmail.com,61.9,D
+Machine Learning,CS105,1,Jacob Brown,jacob.brown594@gmail.com,86.8,B
+Algorithms,CS106,1,Jacob Brown,jacob.brown594@gmail.com,74.0,C
+Algorithms,CS106,2,Jacob Brown,jacob.brown594@gmail.com,80.0,B
+Software Engineering,CS107,1,Jacob Brown,jacob.brown594@gmail.com,80.2,B
+Software Engineering,CS107,2,Jacob Brown,jacob.brown594@gmail.com,83.1,B
+Software Engineering,CS107,3,Jacob Brown,jacob.brown594@gmail.com,90.3,A
+Computer Networks,CS108,1,Jacob Brown,jacob.brown594@gmail.com,60.3,D
+Computer Networks,CS108,2,Jacob Brown,jacob.brown594@gmail.com,66.8,D
+Computer Networks,CS108,3,Jacob Brown,jacob.brown594@gmail.com,86.4,B
+Python Programming,CS101,1,Fatima Williams,fatima.williams766@gmail.com,59.1,F
+Python Programming,CS101,2,Fatima Williams,fatima.williams766@gmail.com,75.7,C
+Python Programming,CS101,3,Fatima Williams,fatima.williams766@gmail.com,89.7,B
+Data Structures,CS102,1,Fatima Williams,fatima.williams766@gmail.com,68.5,D
+Data Structures,CS102,2,Fatima Williams,fatima.williams766@gmail.com,75.7,C
+Database Management,CS103,1,Fatima Williams,fatima.williams766@gmail.com,70.0,C
+Database Management,CS103,2,Fatima Williams,fatima.williams766@gmail.com,79.9,C
+Database Management,CS103,3,Fatima Williams,fatima.williams766@gmail.com,65.5,D
+Web Development,CS104,1,Fatima Williams,fatima.williams766@gmail.com,75.0,C
+Web Development,CS104,2,Fatima Williams,fatima.williams766@gmail.com,62.9,D
+Machine Learning,CS105,1,Fatima Williams,fatima.williams766@gmail.com,69.4,D
+Machine Learning,CS105,2,Fatima Williams,fatima.williams766@gmail.com,82.5,B
+Algorithms,CS106,1,Fatima Williams,fatima.williams766@gmail.com,65.8,D
+Algorithms,CS106,2,Fatima Williams,fatima.williams766@gmail.com,83.9,B
+Software Engineering,CS107,1,Fatima Williams,fatima.williams766@gmail.com,66.1,D
+Software Engineering,CS107,2,Fatima Williams,fatima.williams766@gmail.com,75.0,C
+Software Engineering,CS107,3,Fatima Williams,fatima.williams766@gmail.com,97.5,A
+Computer Networks,CS108,1,Fatima Williams,fatima.williams766@gmail.com,80.9,B
+Computer Networks,CS108,2,Fatima Williams,fatima.williams766@gmail.com,67.4,D
+Python Programming,CS101,1,Jacob Kumar,jacob.kumar59@student.edu,78.4,C
+Python Programming,CS101,2,Jacob Kumar,jacob.kumar59@student.edu,61.5,D
+Data Structures,CS102,1,Jacob Kumar,jacob.kumar59@student.edu,72.2,C
+Database Management,CS103,1,Jacob Kumar,jacob.kumar59@student.edu,71.2,C
+Database Management,CS103,2,Jacob Kumar,jacob.kumar59@student.edu,68.3,D
+Web Development,CS104,1,Jacob Kumar,jacob.kumar59@student.edu,61.5,D
+Machine Learning,CS105,1,Jacob Kumar,jacob.kumar59@student.edu,75.3,C
+Machine Learning,CS105,2,Jacob Kumar,jacob.kumar59@student.edu,61.6,D
+Algorithms,CS106,1,Jacob Kumar,jacob.kumar59@student.edu,72.5,C
+Algorithms,CS106,2,Jacob Kumar,jacob.kumar59@student.edu,62.0,D
+Algorithms,CS106,3,Jacob Kumar,jacob.kumar59@student.edu,63.9,D
+Software Engineering,CS107,1,Jacob Kumar,jacob.kumar59@student.edu,70.0,C
+Computer Networks,CS108,1,Jacob Kumar,jacob.kumar59@student.edu,53.5,F
+Python Programming,CS101,1,Maria Jones,maria.jones599@gmail.com,42.4,F
+Python Programming,CS101,2,Maria Jones,maria.jones599@gmail.com,48.4,F
+Data Structures,CS102,1,Maria Jones,maria.jones599@gmail.com,42.7,F
+Data Structures,CS102,2,Maria Jones,maria.jones599@gmail.com,58.7,F
+Data Structures,CS102,3,Maria Jones,maria.jones599@gmail.com,67.1,D
+Database Management,CS103,1,Maria Jones,maria.jones599@gmail.com,55.0,F
+Database Management,CS103,2,Maria Jones,maria.jones599@gmail.com,58.1,F
+Web Development,CS104,1,Maria Jones,maria.jones599@gmail.com,39.4,F
+Web Development,CS104,2,Maria Jones,maria.jones599@gmail.com,64.7,D
+Machine Learning,CS105,1,Maria Jones,maria.jones599@gmail.com,46.4,F
+Algorithms,CS106,1,Maria Jones,maria.jones599@gmail.com,44.8,F
+Algorithms,CS106,2,Maria Jones,maria.jones599@gmail.com,53.1,F
+Software Engineering,CS107,1,Maria Jones,maria.jones599@gmail.com,46.2,F
+Software Engineering,CS107,2,Maria Jones,maria.jones599@gmail.com,49.5,F
+Software Engineering,CS107,3,Maria Jones,maria.jones599@gmail.com,63.9,D
+Computer Networks,CS108,1,Maria Jones,maria.jones599@gmail.com,51.8,F
+Python Programming,CS101,1,Carlos Young,carlos.young515@college.org,60.7,D
+Python Programming,CS101,2,Carlos Young,carlos.young515@college.org,70.3,C
+Data Structures,CS102,1,Carlos Young,carlos.young515@college.org,53.4,F
+Database Management,CS103,1,Carlos Young,carlos.young515@college.org,69.2,D
+Database Management,CS103,2,Carlos Young,carlos.young515@college.org,58.5,F
+Web Development,CS104,1,Carlos Young,carlos.young515@college.org,48.6,F
+Web Development,CS104,2,Carlos Young,carlos.young515@college.org,67.3,D
+Web Development,CS104,3,Carlos Young,carlos.young515@college.org,55.6,F
+Machine Learning,CS105,1,Carlos Young,carlos.young515@college.org,60.6,D
+Machine Learning,CS105,2,Carlos Young,carlos.young515@college.org,74.3,C
+Machine Learning,CS105,3,Carlos Young,carlos.young515@college.org,80.7,B
+Algorithms,CS106,1,Carlos Young,carlos.young515@college.org,51.9,F
+Software Engineering,CS107,1,Carlos Young,carlos.young515@college.org,71.0,C
+Software Engineering,CS107,2,Carlos Young,carlos.young515@college.org,59.5,F
+Software Engineering,CS107,3,Carlos Young,carlos.young515@college.org,66.7,D
+Computer Networks,CS108,1,Carlos Young,carlos.young515@college.org,65.7,D
+Python Programming,CS101,1,Jacob Martinez,jacob.martinez59@outlook.com,66.8,D
+Python Programming,CS101,2,Jacob Martinez,jacob.martinez59@outlook.com,64.7,D
+Data Structures,CS102,1,Jacob Martinez,jacob.martinez59@outlook.com,70.7,C
+Data Structures,CS102,2,Jacob Martinez,jacob.martinez59@outlook.com,77.7,C
+Database Management,CS103,1,Jacob Martinez,jacob.martinez59@outlook.com,59.8,F
+Database Management,CS103,2,Jacob Martinez,jacob.martinez59@outlook.com,70.6,C
+Web Development,CS104,1,Jacob Martinez,jacob.martinez59@outlook.com,50.9,F
+Machine Learning,CS105,1,Jacob Martinez,jacob.martinez59@outlook.com,65.1,D
+Machine Learning,CS105,2,Jacob Martinez,jacob.martinez59@outlook.com,60.2,D
+Machine Learning,CS105,3,Jacob Martinez,jacob.martinez59@outlook.com,70.7,C
+Algorithms,CS106,1,Jacob Martinez,jacob.martinez59@outlook.com,67.0,D
+Software Engineering,CS107,1,Jacob Martinez,jacob.martinez59@outlook.com,69.7,D
+Software Engineering,CS107,2,Jacob Martinez,jacob.martinez59@outlook.com,75.2,C
+Software Engineering,CS107,3,Jacob Martinez,jacob.martinez59@outlook.com,78.5,C
+Computer Networks,CS108,1,Jacob Martinez,jacob.martinez59@outlook.com,54.7,F
+Computer Networks,CS108,2,Jacob Martinez,jacob.martinez59@outlook.com,70.8,C
+Computer Networks,CS108,3,Jacob Martinez,jacob.martinez59@outlook.com,83.0,B
+Python Programming,CS101,1,Charlotte Kumar,charlotte.kumar872@gmail.com,86.7,B
+Python Programming,CS101,2,Charlotte Kumar,charlotte.kumar872@gmail.com,80.1,B
+Python Programming,CS101,3,Charlotte Kumar,charlotte.kumar872@gmail.com,87.8,B
+Data Structures,CS102,1,Charlotte Kumar,charlotte.kumar872@gmail.com,97.6,A
+Database Management,CS103,1,Charlotte Kumar,charlotte.kumar872@gmail.com,73.9,C
+Web Development,CS104,1,Charlotte Kumar,charlotte.kumar872@gmail.com,81.5,B
+Machine Learning,CS105,1,Charlotte Kumar,charlotte.kumar872@gmail.com,100.0,A
+Machine Learning,CS105,2,Charlotte Kumar,charlotte.kumar872@gmail.com,100.0,A
+Machine Learning,CS105,3,Charlotte Kumar,charlotte.kumar872@gmail.com,93.2,A
+Algorithms,CS106,1,Charlotte Kumar,charlotte.kumar872@gmail.com,86.9,B
+Algorithms,CS106,2,Charlotte Kumar,charlotte.kumar872@gmail.com,100.0,A
+Software Engineering,CS107,1,Charlotte Kumar,charlotte.kumar872@gmail.com,92.7,A
+Computer Networks,CS108,1,Charlotte Kumar,charlotte.kumar872@gmail.com,99.9,A
+Computer Networks,CS108,2,Charlotte Kumar,charlotte.kumar872@gmail.com,75.7,C
+Python Programming,CS101,1,Mia Kim,mia.kim71@outlook.com,78.8,C
+Data Structures,CS102,1,Mia Kim,mia.kim71@outlook.com,68.2,D
+Data Structures,CS102,2,Mia Kim,mia.kim71@outlook.com,77.1,C
+Database Management,CS103,1,Mia Kim,mia.kim71@outlook.com,67.4,D
+Database Management,CS103,2,Mia Kim,mia.kim71@outlook.com,77.0,C
+Web Development,CS104,1,Mia Kim,mia.kim71@outlook.com,85.9,B
+Machine Learning,CS105,1,Mia Kim,mia.kim71@outlook.com,71.5,C
+Algorithms,CS106,1,Mia Kim,mia.kim71@outlook.com,79.3,C
+Algorithms,CS106,2,Mia Kim,mia.kim71@outlook.com,70.5,C
+Algorithms,CS106,3,Mia Kim,mia.kim71@outlook.com,97.3,A
+Software Engineering,CS107,1,Mia Kim,mia.kim71@outlook.com,85.9,B
+Software Engineering,CS107,2,Mia Kim,mia.kim71@outlook.com,79.7,C
+Computer Networks,CS108,1,Mia Kim,mia.kim71@outlook.com,87.2,B
+Python Programming,CS101,1,James Patel,james.patel692@gmail.com,43.1,F
+Python Programming,CS101,2,James Patel,james.patel692@gmail.com,39.5,F
+Python Programming,CS101,3,James Patel,james.patel692@gmail.com,69.5,D
+Data Structures,CS102,1,James Patel,james.patel692@gmail.com,38.0,F
+Data Structures,CS102,2,James Patel,james.patel692@gmail.com,44.1,F
+Data Structures,CS102,3,James Patel,james.patel692@gmail.com,46.3,F
+Database Management,CS103,1,James Patel,james.patel692@gmail.com,51.0,F
+Database Management,CS103,2,James Patel,james.patel692@gmail.com,49.8,F
+Database Management,CS103,3,James Patel,james.patel692@gmail.com,63.6,D
+Web Development,CS104,1,James Patel,james.patel692@gmail.com,40.6,F
+Web Development,CS104,2,James Patel,james.patel692@gmail.com,45.6,F
+Web Development,CS104,3,James Patel,james.patel692@gmail.com,67.3,D
+Machine Learning,CS105,1,James Patel,james.patel692@gmail.com,40.9,F
+Machine Learning,CS105,2,James Patel,james.patel692@gmail.com,42.6,F
+Machine Learning,CS105,3,James Patel,james.patel692@gmail.com,52.5,F
+Algorithms,CS106,1,James Patel,james.patel692@gmail.com,41.8,F
+Algorithms,CS106,2,James Patel,james.patel692@gmail.com,43.8,F
+Algorithms,CS106,3,James Patel,james.patel692@gmail.com,62.0,D
+Software Engineering,CS107,1,James Patel,james.patel692@gmail.com,44.5,F
+Software Engineering,CS107,2,James Patel,james.patel692@gmail.com,43.7,F
+Computer Networks,CS108,1,James Patel,james.patel692@gmail.com,36.3,F
+Computer Networks,CS108,2,James Patel,james.patel692@gmail.com,56.1,F
+Computer Networks,CS108,3,James Patel,james.patel692@gmail.com,52.3,F
+Python Programming,CS101,1,Ahmed Walker,ahmed.walker414@outlook.com,83.4,B
+Data Structures,CS102,1,Ahmed Walker,ahmed.walker414@outlook.com,69.4,D
+Database Management,CS103,1,Ahmed Walker,ahmed.walker414@outlook.com,88.1,B
+Web Development,CS104,1,Ahmed Walker,ahmed.walker414@outlook.com,68.0,D
+Web Development,CS104,2,Ahmed Walker,ahmed.walker414@outlook.com,69.4,D
+Machine Learning,CS105,1,Ahmed Walker,ahmed.walker414@outlook.com,75.2,C
+Machine Learning,CS105,2,Ahmed Walker,ahmed.walker414@outlook.com,66.3,D
+Algorithms,CS106,1,Ahmed Walker,ahmed.walker414@outlook.com,77.8,C
+Algorithms,CS106,2,Ahmed Walker,ahmed.walker414@outlook.com,76.7,C
+Algorithms,CS106,3,Ahmed Walker,ahmed.walker414@outlook.com,81.6,B
+Software Engineering,CS107,1,Ahmed Walker,ahmed.walker414@outlook.com,76.6,C
+Computer Networks,CS108,1,Ahmed Walker,ahmed.walker414@outlook.com,65.0,D
+Python Programming,CS101,1,Lucas Wilson,lucas.wilson965@gmail.com,58.3,F
+Python Programming,CS101,2,Lucas Wilson,lucas.wilson965@gmail.com,60.0,D
+Data Structures,CS102,1,Lucas Wilson,lucas.wilson965@gmail.com,62.2,D
+Database Management,CS103,1,Lucas Wilson,lucas.wilson965@gmail.com,60.7,D
+Database Management,CS103,2,Lucas Wilson,lucas.wilson965@gmail.com,79.5,C
+Web Development,CS104,1,Lucas Wilson,lucas.wilson965@gmail.com,56.4,F
+Web Development,CS104,2,Lucas Wilson,lucas.wilson965@gmail.com,63.0,D
+Machine Learning,CS105,1,Lucas Wilson,lucas.wilson965@gmail.com,67.3,D
+Machine Learning,CS105,2,Lucas Wilson,lucas.wilson965@gmail.com,68.5,D
+Algorithms,CS106,1,Lucas Wilson,lucas.wilson965@gmail.com,72.5,C
+Algorithms,CS106,2,Lucas Wilson,lucas.wilson965@gmail.com,74.2,C
+Software Engineering,CS107,1,Lucas Wilson,lucas.wilson965@gmail.com,75.7,C
+Software Engineering,CS107,2,Lucas Wilson,lucas.wilson965@gmail.com,63.9,D
+Computer Networks,CS108,1,Lucas Wilson,lucas.wilson965@gmail.com,58.9,F
+Computer Networks,CS108,2,Lucas Wilson,lucas.wilson965@gmail.com,71.9,C
+Python Programming,CS101,1,Evelyn Zhang,evelyn.zhang593@outlook.com,55.7,F
+Python Programming,CS101,2,Evelyn Zhang,evelyn.zhang593@outlook.com,71.7,C
+Python Programming,CS101,3,Evelyn Zhang,evelyn.zhang593@outlook.com,81.3,B
+Data Structures,CS102,1,Evelyn Zhang,evelyn.zhang593@outlook.com,60.9,D
+Database Management,CS103,1,Evelyn Zhang,evelyn.zhang593@outlook.com,48.5,F
+Database Management,CS103,2,Evelyn Zhang,evelyn.zhang593@outlook.com,78.5,C
+Database Management,CS103,3,Evelyn Zhang,evelyn.zhang593@outlook.com,75.9,C
+Web Development,CS104,1,Evelyn Zhang,evelyn.zhang593@outlook.com,68.2,D
+Web Development,CS104,2,Evelyn Zhang,evelyn.zhang593@outlook.com,72.6,C
+Web Development,CS104,3,Evelyn Zhang,evelyn.zhang593@outlook.com,63.1,D
+Machine Learning,CS105,1,Evelyn Zhang,evelyn.zhang593@outlook.com,65.0,D
+Machine Learning,CS105,2,Evelyn Zhang,evelyn.zhang593@outlook.com,58.2,F
+Algorithms,CS106,1,Evelyn Zhang,evelyn.zhang593@outlook.com,57.5,F
+Algorithms,CS106,2,Evelyn Zhang,evelyn.zhang593@outlook.com,76.5,C
+Algorithms,CS106,3,Evelyn Zhang,evelyn.zhang593@outlook.com,76.6,C
+Software Engineering,CS107,1,Evelyn Zhang,evelyn.zhang593@outlook.com,67.3,D
+Software Engineering,CS107,2,Evelyn Zhang,evelyn.zhang593@outlook.com,76.9,C
+Computer Networks,CS108,1,Evelyn Zhang,evelyn.zhang593@outlook.com,63.6,D
+Python Programming,CS101,1,Evelyn Kumar,evelyn.kumar635@gmail.com,82.7,B
+Python Programming,CS101,2,Evelyn Kumar,evelyn.kumar635@gmail.com,90.7,A
+Data Structures,CS102,1,Evelyn Kumar,evelyn.kumar635@gmail.com,87.2,B
+Data Structures,CS102,2,Evelyn Kumar,evelyn.kumar635@gmail.com,86.7,B
+Data Structures,CS102,3,Evelyn Kumar,evelyn.kumar635@gmail.com,77.7,C
+Database Management,CS103,1,Evelyn Kumar,evelyn.kumar635@gmail.com,81.0,B
+Database Management,CS103,2,Evelyn Kumar,evelyn.kumar635@gmail.com,78.2,C
+Database Management,CS103,3,Evelyn Kumar,evelyn.kumar635@gmail.com,89.2,B
+Web Development,CS104,1,Evelyn Kumar,evelyn.kumar635@gmail.com,79.2,C
+Web Development,CS104,2,Evelyn Kumar,evelyn.kumar635@gmail.com,69.5,D
+Web Development,CS104,3,Evelyn Kumar,evelyn.kumar635@gmail.com,84.0,B
+Machine Learning,CS105,1,Evelyn Kumar,evelyn.kumar635@gmail.com,93.1,A
+Algorithms,CS106,1,Evelyn Kumar,evelyn.kumar635@gmail.com,74.2,C
+Software Engineering,CS107,1,Evelyn Kumar,evelyn.kumar635@gmail.com,74.4,C
+Computer Networks,CS108,1,Evelyn Kumar,evelyn.kumar635@gmail.com,85.4,B
+Python Programming,CS101,1,Chloe Khan,chloe.khan430@gmail.com,69.9,D
+Python Programming,CS101,2,Chloe Khan,chloe.khan430@gmail.com,77.1,C
+Data Structures,CS102,1,Chloe Khan,chloe.khan430@gmail.com,91.5,A
+Data Structures,CS102,2,Chloe Khan,chloe.khan430@gmail.com,100.0,A
+Database Management,CS103,1,Chloe Khan,chloe.khan430@gmail.com,87.2,B
+Web Development,CS104,1,Chloe Khan,chloe.khan430@gmail.com,100.0,A
+Web Development,CS104,2,Chloe Khan,chloe.khan430@gmail.com,86.8,B
+Machine Learning,CS105,1,Chloe Khan,chloe.khan430@gmail.com,90.8,A
+Algorithms,CS106,1,Chloe Khan,chloe.khan430@gmail.com,89.4,B
+Algorithms,CS106,2,Chloe Khan,chloe.khan430@gmail.com,93.0,A
+Software Engineering,CS107,1,Chloe Khan,chloe.khan430@gmail.com,75.7,C
+Software Engineering,CS107,2,Chloe Khan,chloe.khan430@gmail.com,97.4,A
+Computer Networks,CS108,1,Chloe Khan,chloe.khan430@gmail.com,95.7,A
+Python Programming,CS101,1,Raj Clark,raj.clark958@student.edu,78.1,C
+Python Programming,CS101,2,Raj Clark,raj.clark958@student.edu,82.2,B
+Python Programming,CS101,3,Raj Clark,raj.clark958@student.edu,100.0,A
+Data Structures,CS102,1,Raj Clark,raj.clark958@student.edu,80.2,B
+Data Structures,CS102,2,Raj Clark,raj.clark958@student.edu,76.8,C
+Data Structures,CS102,3,Raj Clark,raj.clark958@student.edu,93.5,A
+Database Management,CS103,1,Raj Clark,raj.clark958@student.edu,90.9,A
+Web Development,CS104,1,Raj Clark,raj.clark958@student.edu,87.0,B
+Web Development,CS104,2,Raj Clark,raj.clark958@student.edu,85.4,B
+Machine Learning,CS105,1,Raj Clark,raj.clark958@student.edu,73.3,C
+Algorithms,CS106,1,Raj Clark,raj.clark958@student.edu,80.2,B
+Algorithms,CS106,2,Raj Clark,raj.clark958@student.edu,93.7,A
+Algorithms,CS106,3,Raj Clark,raj.clark958@student.edu,95.4,A
+Software Engineering,CS107,1,Raj Clark,raj.clark958@student.edu,88.8,B
+Software Engineering,CS107,2,Raj Clark,raj.clark958@student.edu,95.8,A
+Software Engineering,CS107,3,Raj Clark,raj.clark958@student.edu,84.7,B
+Computer Networks,CS108,1,Raj Clark,raj.clark958@student.edu,88.0,B
+Computer Networks,CS108,2,Raj Clark,raj.clark958@student.edu,100.0,A
+Python Programming,CS101,1,Charlotte Garcia,charlotte.garcia210@student.edu,64.7,D
+Python Programming,CS101,2,Charlotte Garcia,charlotte.garcia210@student.edu,67.3,D
+Data Structures,CS102,1,Charlotte Garcia,charlotte.garcia210@student.edu,57.2,F
+Data Structures,CS102,2,Charlotte Garcia,charlotte.garcia210@student.edu,64.1,D
+Database Management,CS103,1,Charlotte Garcia,charlotte.garcia210@student.edu,46.6,F
+Web Development,CS104,1,Charlotte Garcia,charlotte.garcia210@student.edu,52.2,F
+Machine Learning,CS105,1,Charlotte Garcia,charlotte.garcia210@student.edu,63.9,D
+Machine Learning,CS105,2,Charlotte Garcia,charlotte.garcia210@student.edu,70.6,C
+Machine Learning,CS105,3,Charlotte Garcia,charlotte.garcia210@student.edu,70.6,C
+Algorithms,CS106,1,Charlotte Garcia,charlotte.garcia210@student.edu,63.7,D
+Algorithms,CS106,2,Charlotte Garcia,charlotte.garcia210@student.edu,63.1,D
+Algorithms,CS106,3,Charlotte Garcia,charlotte.garcia210@student.edu,64.4,D
+Software Engineering,CS107,1,Charlotte Garcia,charlotte.garcia210@student.edu,50.9,F
+Software Engineering,CS107,2,Charlotte Garcia,charlotte.garcia210@student.edu,68.8,D
+Software Engineering,CS107,3,Charlotte Garcia,charlotte.garcia210@student.edu,66.8,D
+Computer Networks,CS108,1,Charlotte Garcia,charlotte.garcia210@student.edu,53.9,F
+Python Programming,CS101,1,Olivia Davis,olivia.davis245@student.edu,78.3,C
+Data Structures,CS102,1,Olivia Davis,olivia.davis245@student.edu,71.6,C
+Database Management,CS103,1,Olivia Davis,olivia.davis245@student.edu,70.9,C
+Database Management,CS103,2,Olivia Davis,olivia.davis245@student.edu,64.1,D
+Database Management,CS103,3,Olivia Davis,olivia.davis245@student.edu,65.6,D
+Web Development,CS104,1,Olivia Davis,olivia.davis245@student.edu,67.2,D
+Machine Learning,CS105,1,Olivia Davis,olivia.davis245@student.edu,66.4,D
+Machine Learning,CS105,2,Olivia Davis,olivia.davis245@student.edu,76.0,C
+Machine Learning,CS105,3,Olivia Davis,olivia.davis245@student.edu,69.3,D
+Algorithms,CS106,1,Olivia Davis,olivia.davis245@student.edu,70.0,C
+Algorithms,CS106,2,Olivia Davis,olivia.davis245@student.edu,81.1,B
+Algorithms,CS106,3,Olivia Davis,olivia.davis245@student.edu,93.3,A
+Software Engineering,CS107,1,Olivia Davis,olivia.davis245@student.edu,55.6,F
+Software Engineering,CS107,2,Olivia Davis,olivia.davis245@student.edu,67.9,D
+Computer Networks,CS108,1,Olivia Davis,olivia.davis245@student.edu,58.8,F
+Computer Networks,CS108,2,Olivia Davis,olivia.davis245@student.edu,71.5,C
+Computer Networks,CS108,3,Olivia Davis,olivia.davis245@student.edu,76.8,C
+Python Programming,CS101,1,Priya Chen,priya.chen406@student.edu,73.5,C
+Python Programming,CS101,2,Priya Chen,priya.chen406@student.edu,93.8,A
+Python Programming,CS101,3,Priya Chen,priya.chen406@student.edu,82.7,B
+Data Structures,CS102,1,Priya Chen,priya.chen406@student.edu,86.3,B
+Data Structures,CS102,2,Priya Chen,priya.chen406@student.edu,80.8,B
+Database Management,CS103,1,Priya Chen,priya.chen406@student.edu,83.2,B
+Database Management,CS103,2,Priya Chen,priya.chen406@student.edu,90.0,A
+Database Management,CS103,3,Priya Chen,priya.chen406@student.edu,92.3,A
+Web Development,CS104,1,Priya Chen,priya.chen406@student.edu,83.8,B
+Web Development,CS104,2,Priya Chen,priya.chen406@student.edu,94.8,A
+Machine Learning,CS105,1,Priya Chen,priya.chen406@student.edu,69.7,D
+Algorithms,CS106,1,Priya Chen,priya.chen406@student.edu,77.3,C
+Algorithms,CS106,2,Priya Chen,priya.chen406@student.edu,81.5,B
+Software Engineering,CS107,1,Priya Chen,priya.chen406@student.edu,82.8,B
+Software Engineering,CS107,2,Priya Chen,priya.chen406@student.edu,82.1,B
+Computer Networks,CS108,1,Priya Chen,priya.chen406@student.edu,87.8,B
+Computer Networks,CS108,2,Priya Chen,priya.chen406@student.edu,77.8,C
+Python Programming,CS101,1,Isabella King,isabella.king688@outlook.com,91.0,A
+Python Programming,CS101,2,Isabella King,isabella.king688@outlook.com,93.6,A
+Data Structures,CS102,1,Isabella King,isabella.king688@outlook.com,97.4,A
+Database Management,CS103,1,Isabella King,isabella.king688@outlook.com,76.2,C
+Web Development,CS104,1,Isabella King,isabella.king688@outlook.com,89.7,B
+Web Development,CS104,2,Isabella King,isabella.king688@outlook.com,92.2,A
+Machine Learning,CS105,1,Isabella King,isabella.king688@outlook.com,75.6,C
+Machine Learning,CS105,2,Isabella King,isabella.king688@outlook.com,99.1,A
+Machine Learning,CS105,3,Isabella King,isabella.king688@outlook.com,89.9,B
+Algorithms,CS106,1,Isabella King,isabella.king688@outlook.com,85.3,B
+Software Engineering,CS107,1,Isabella King,isabella.king688@outlook.com,91.3,A
+Software Engineering,CS107,2,Isabella King,isabella.king688@outlook.com,100.0,A
+Computer Networks,CS108,1,Isabella King,isabella.king688@outlook.com,83.9,B
+Computer Networks,CS108,2,Isabella King,isabella.king688@outlook.com,75.3,C
+Python Programming,CS101,1,Noah Singh,noah.singh469@student.edu,59.5,F
+Data Structures,CS102,1,Noah Singh,noah.singh469@student.edu,69.7,D
+Data Structures,CS102,2,Noah Singh,noah.singh469@student.edu,61.9,D
+Database Management,CS103,1,Noah Singh,noah.singh469@student.edu,63.6,D
+Database Management,CS103,2,Noah Singh,noah.singh469@student.edu,69.6,D
+Database Management,CS103,3,Noah Singh,noah.singh469@student.edu,80.6,B
+Web Development,CS104,1,Noah Singh,noah.singh469@student.edu,73.4,C
+Web Development,CS104,2,Noah Singh,noah.singh469@student.edu,68.7,D
+Web Development,CS104,3,Noah Singh,noah.singh469@student.edu,81.8,B
+Machine Learning,CS105,1,Noah Singh,noah.singh469@student.edu,65.1,D
+Algorithms,CS106,1,Noah Singh,noah.singh469@student.edu,61.0,D
+Algorithms,CS106,2,Noah Singh,noah.singh469@student.edu,65.0,D
+Software Engineering,CS107,1,Noah Singh,noah.singh469@student.edu,64.2,D
+Software Engineering,CS107,2,Noah Singh,noah.singh469@student.edu,72.7,C
+Software Engineering,CS107,3,Noah Singh,noah.singh469@student.edu,84.5,B
+Computer Networks,CS108,1,Noah Singh,noah.singh469@student.edu,55.4,F
+Computer Networks,CS108,2,Noah Singh,noah.singh469@student.edu,62.2,D
+Computer Networks,CS108,3,Noah Singh,noah.singh469@student.edu,78.0,C
+Python Programming,CS101,1,Aiden King,aiden.king952@student.edu,56.8,F
+Data Structures,CS102,1,Aiden King,aiden.king952@student.edu,55.7,F
+Data Structures,CS102,2,Aiden King,aiden.king952@student.edu,63.3,D
+Database Management,CS103,1,Aiden King,aiden.king952@student.edu,57.3,F
+Database Management,CS103,2,Aiden King,aiden.king952@student.edu,78.1,C
+Web Development,CS104,1,Aiden King,aiden.king952@student.edu,58.4,F
+Web Development,CS104,2,Aiden King,aiden.king952@student.edu,86.6,B
+Machine Learning,CS105,1,Aiden King,aiden.king952@student.edu,55.6,F
+Algorithms,CS106,1,Aiden King,aiden.king952@student.edu,78.6,C
+Algorithms,CS106,2,Aiden King,aiden.king952@student.edu,74.1,C
+Software Engineering,CS107,1,Aiden King,aiden.king952@student.edu,67.2,D
+Software Engineering,CS107,2,Aiden King,aiden.king952@student.edu,78.5,C
+Computer Networks,CS108,1,Aiden King,aiden.king952@student.edu,68.2,D
+Python Programming,CS101,1,Mia Lewis,mia.lewis10@gmail.com,49.3,F
+Data Structures,CS102,1,Mia Lewis,mia.lewis10@gmail.com,63.5,D
+Data Structures,CS102,2,Mia Lewis,mia.lewis10@gmail.com,53.8,F
+Data Structures,CS102,3,Mia Lewis,mia.lewis10@gmail.com,73.2,C
+Database Management,CS103,1,Mia Lewis,mia.lewis10@gmail.com,44.1,F
+Database Management,CS103,2,Mia Lewis,mia.lewis10@gmail.com,66.2,D
+Database Management,CS103,3,Mia Lewis,mia.lewis10@gmail.com,61.8,D
+Web Development,CS104,1,Mia Lewis,mia.lewis10@gmail.com,45.2,F
+Machine Learning,CS105,1,Mia Lewis,mia.lewis10@gmail.com,49.3,F
+Machine Learning,CS105,2,Mia Lewis,mia.lewis10@gmail.com,66.7,D
+Machine Learning,CS105,3,Mia Lewis,mia.lewis10@gmail.com,65.5,D
+Algorithms,CS106,1,Mia Lewis,mia.lewis10@gmail.com,53.3,F
+Algorithms,CS106,2,Mia Lewis,mia.lewis10@gmail.com,59.2,F
+Algorithms,CS106,3,Mia Lewis,mia.lewis10@gmail.com,65.8,D
+Software Engineering,CS107,1,Mia Lewis,mia.lewis10@gmail.com,59.4,F
+Software Engineering,CS107,2,Mia Lewis,mia.lewis10@gmail.com,66.5,D
+Computer Networks,CS108,1,Mia Lewis,mia.lewis10@gmail.com,51.9,F
+Python Programming,CS101,1,James Walker,james.walker637@college.org,56.5,F
+Python Programming,CS101,2,James Walker,james.walker637@college.org,50.3,F
+Python Programming,CS101,3,James Walker,james.walker637@college.org,61.5,D
+Data Structures,CS102,1,James Walker,james.walker637@college.org,45.1,F
+Data Structures,CS102,2,James Walker,james.walker637@college.org,61.8,D
+Database Management,CS103,1,James Walker,james.walker637@college.org,44.0,F
+Database Management,CS103,2,James Walker,james.walker637@college.org,49.9,F
+Database Management,CS103,3,James Walker,james.walker637@college.org,59.9,F
+Web Development,CS104,1,James Walker,james.walker637@college.org,49.6,F
+Machine Learning,CS105,1,James Walker,james.walker637@college.org,61.6,D
+Algorithms,CS106,1,James Walker,james.walker637@college.org,60.7,D
+Software Engineering,CS107,1,James Walker,james.walker637@college.org,46.3,F
+Software Engineering,CS107,2,James Walker,james.walker637@college.org,65.5,D
+Software Engineering,CS107,3,James Walker,james.walker637@college.org,69.3,D
+Computer Networks,CS108,1,James Walker,james.walker637@college.org,52.1,F
+Computer Networks,CS108,2,James Walker,james.walker637@college.org,54.7,F
+Computer Networks,CS108,3,James Walker,james.walker637@college.org,79.3,C
+Python Programming,CS101,1,John Davis,john.davis76@gmail.com,81.0,B
+Python Programming,CS101,2,John Davis,john.davis76@gmail.com,98.5,A
+Data Structures,CS102,1,John Davis,john.davis76@gmail.com,80.8,B
+Data Structures,CS102,2,John Davis,john.davis76@gmail.com,80.9,B
+Database Management,CS103,1,John Davis,john.davis76@gmail.com,73.7,C
+Database Management,CS103,2,John Davis,john.davis76@gmail.com,100.0,A
+Web Development,CS104,1,John Davis,john.davis76@gmail.com,83.7,B
+Machine Learning,CS105,1,John Davis,john.davis76@gmail.com,96.4,A
+Algorithms,CS106,1,John Davis,john.davis76@gmail.com,77.1,C
+Software Engineering,CS107,1,John Davis,john.davis76@gmail.com,97.0,A
+Software Engineering,CS107,2,John Davis,john.davis76@gmail.com,90.4,A
+Software Engineering,CS107,3,John Davis,john.davis76@gmail.com,100.0,A
+Computer Networks,CS108,1,John Davis,john.davis76@gmail.com,98.1,A
+Python Programming,CS101,1,Lucas Anderson,lucas.anderson519@outlook.com,74.4,C
+Python Programming,CS101,2,Lucas Anderson,lucas.anderson519@outlook.com,100.0,A
+Data Structures,CS102,1,Lucas Anderson,lucas.anderson519@outlook.com,80.6,B
+Database Management,CS103,1,Lucas Anderson,lucas.anderson519@outlook.com,100.0,A
+Database Management,CS103,2,Lucas Anderson,lucas.anderson519@outlook.com,100.0,A
+Database Management,CS103,3,Lucas Anderson,lucas.anderson519@outlook.com,100.0,A
+Web Development,CS104,1,Lucas Anderson,lucas.anderson519@outlook.com,75.0,C
+Web Development,CS104,2,Lucas Anderson,lucas.anderson519@outlook.com,95.0,A
+Web Development,CS104,3,Lucas Anderson,lucas.anderson519@outlook.com,100.0,A
+Machine Learning,CS105,1,Lucas Anderson,lucas.anderson519@outlook.com,100.0,A
+Machine Learning,CS105,2,Lucas Anderson,lucas.anderson519@outlook.com,100.0,A
+Algorithms,CS106,1,Lucas Anderson,lucas.anderson519@outlook.com,82.1,B
+Algorithms,CS106,2,Lucas Anderson,lucas.anderson519@outlook.com,83.1,B
+Software Engineering,CS107,1,Lucas Anderson,lucas.anderson519@outlook.com,76.1,C
+Software Engineering,CS107,2,Lucas Anderson,lucas.anderson519@outlook.com,89.8,B
+Software Engineering,CS107,3,Lucas Anderson,lucas.anderson519@outlook.com,92.9,A
+Computer Networks,CS108,1,Lucas Anderson,lucas.anderson519@outlook.com,89.0,B
+Python Programming,CS101,1,Emily Davis,emily.davis136@student.edu,77.4,C
+Data Structures,CS102,1,Emily Davis,emily.davis136@student.edu,74.3,C
+Data Structures,CS102,2,Emily Davis,emily.davis136@student.edu,81.5,B
+Database Management,CS103,1,Emily Davis,emily.davis136@student.edu,74.7,C
+Database Management,CS103,2,Emily Davis,emily.davis136@student.edu,75.8,C
+Web Development,CS104,1,Emily Davis,emily.davis136@student.edu,62.3,D
+Machine Learning,CS105,1,Emily Davis,emily.davis136@student.edu,66.3,D
+Algorithms,CS106,1,Emily Davis,emily.davis136@student.edu,70.3,C
+Algorithms,CS106,2,Emily Davis,emily.davis136@student.edu,61.6,D
+Software Engineering,CS107,1,Emily Davis,emily.davis136@student.edu,56.8,F
+Computer Networks,CS108,1,Emily Davis,emily.davis136@student.edu,77.8,C
+Python Programming,CS101,1,David Zhang,david.zhang903@student.edu,99.9,A
+Python Programming,CS101,2,David Zhang,david.zhang903@student.edu,91.6,A
+Data Structures,CS102,1,David Zhang,david.zhang903@student.edu,70.2,C
+Database Management,CS103,1,David Zhang,david.zhang903@student.edu,72.4,C
+Database Management,CS103,2,David Zhang,david.zhang903@student.edu,100.0,A
+Database Management,CS103,3,David Zhang,david.zhang903@student.edu,80.1,B
+Web Development,CS104,1,David Zhang,david.zhang903@student.edu,99.5,A
+Web Development,CS104,2,David Zhang,david.zhang903@student.edu,98.7,A
+Machine Learning,CS105,1,David Zhang,david.zhang903@student.edu,91.3,A
+Machine Learning,CS105,2,David Zhang,david.zhang903@student.edu,79.6,C
+Algorithms,CS106,1,David Zhang,david.zhang903@student.edu,83.2,B
+Software Engineering,CS107,1,David Zhang,david.zhang903@student.edu,89.1,B
+Computer Networks,CS108,1,David Zhang,david.zhang903@student.edu,85.0,B
+Python Programming,CS101,1,Wei Hernandez,wei.hernandez901@gmail.com,63.0,D
+Python Programming,CS101,2,Wei Hernandez,wei.hernandez901@gmail.com,78.7,C
+Python Programming,CS101,3,Wei Hernandez,wei.hernandez901@gmail.com,99.4,A
+Data Structures,CS102,1,Wei Hernandez,wei.hernandez901@gmail.com,84.5,B
+Database Management,CS103,1,Wei Hernandez,wei.hernandez901@gmail.com,83.9,B
+Web Development,CS104,1,Wei Hernandez,wei.hernandez901@gmail.com,83.9,B
+Web Development,CS104,2,Wei Hernandez,wei.hernandez901@gmail.com,82.8,B
+Machine Learning,CS105,1,Wei Hernandez,wei.hernandez901@gmail.com,65.8,D
+Machine Learning,CS105,2,Wei Hernandez,wei.hernandez901@gmail.com,72.2,C
+Algorithms,CS106,1,Wei Hernandez,wei.hernandez901@gmail.com,90.3,A
+Algorithms,CS106,2,Wei Hernandez,wei.hernandez901@gmail.com,90.2,A
+Software Engineering,CS107,1,Wei Hernandez,wei.hernandez901@gmail.com,63.4,D
+Computer Networks,CS108,1,Wei Hernandez,wei.hernandez901@gmail.com,76.4,C
+Computer Networks,CS108,2,Wei Hernandez,wei.hernandez901@gmail.com,91.1,A
+Computer Networks,CS108,3,Wei Hernandez,wei.hernandez901@gmail.com,100.0,A
+Python Programming,CS101,1,John Wilson,john.wilson379@outlook.com,67.5,D
+Python Programming,CS101,2,John Wilson,john.wilson379@outlook.com,74.0,C
+Python Programming,CS101,3,John Wilson,john.wilson379@outlook.com,70.3,C
+Data Structures,CS102,1,John Wilson,john.wilson379@outlook.com,66.1,D
+Data Structures,CS102,2,John Wilson,john.wilson379@outlook.com,68.0,D
+Data Structures,CS102,3,John Wilson,john.wilson379@outlook.com,72.6,C
+Database Management,CS103,1,John Wilson,john.wilson379@outlook.com,61.8,D
+Database Management,CS103,2,John Wilson,john.wilson379@outlook.com,76.4,C
+Database Management,CS103,3,John Wilson,john.wilson379@outlook.com,78.5,C
+Web Development,CS104,1,John Wilson,john.wilson379@outlook.com,49.2,F
+Web Development,CS104,2,John Wilson,john.wilson379@outlook.com,66.2,D
+Machine Learning,CS105,1,John Wilson,john.wilson379@outlook.com,48.3,F
+Algorithms,CS106,1,John Wilson,john.wilson379@outlook.com,51.4,F
+Algorithms,CS106,2,John Wilson,john.wilson379@outlook.com,78.4,C
+Algorithms,CS106,3,John Wilson,john.wilson379@outlook.com,73.9,C
+Software Engineering,CS107,1,John Wilson,john.wilson379@outlook.com,65.3,D
+Computer Networks,CS108,1,John Wilson,john.wilson379@outlook.com,68.7,D
+Python Programming,CS101,1,Joseph Wang,joseph.wang162@student.edu,71.6,C
+Python Programming,CS101,2,Joseph Wang,joseph.wang162@student.edu,81.9,B
+Data Structures,CS102,1,Joseph Wang,joseph.wang162@student.edu,70.1,C
+Database Management,CS103,1,Joseph Wang,joseph.wang162@student.edu,73.5,C
+Web Development,CS104,1,Joseph Wang,joseph.wang162@student.edu,79.9,C
+Web Development,CS104,2,Joseph Wang,joseph.wang162@student.edu,93.8,A
+Web Development,CS104,3,Joseph Wang,joseph.wang162@student.edu,100.0,A
+Machine Learning,CS105,1,Joseph Wang,joseph.wang162@student.edu,78.1,C
+Machine Learning,CS105,2,Joseph Wang,joseph.wang162@student.edu,73.8,C
+Algorithms,CS106,1,Joseph Wang,joseph.wang162@student.edu,65.7,D
+Algorithms,CS106,2,Joseph Wang,joseph.wang162@student.edu,84.5,B
+Algorithms,CS106,3,Joseph Wang,joseph.wang162@student.edu,100.0,A
+Software Engineering,CS107,1,Joseph Wang,joseph.wang162@student.edu,78.5,C
+Software Engineering,CS107,2,Joseph Wang,joseph.wang162@student.edu,99.0,A
+Software Engineering,CS107,3,Joseph Wang,joseph.wang162@student.edu,86.5,B
+Computer Networks,CS108,1,Joseph Wang,joseph.wang162@student.edu,82.8,B
+Computer Networks,CS108,2,Joseph Wang,joseph.wang162@student.edu,94.6,A
+Python Programming,CS101,1,Joseph Miller,joseph.miller854@college.org,100.0,A
+Data Structures,CS102,1,Joseph Miller,joseph.miller854@college.org,100.0,A
+Data Structures,CS102,2,Joseph Miller,joseph.miller854@college.org,80.2,B
+Data Structures,CS102,3,Joseph Miller,joseph.miller854@college.org,100.0,A
+Database Management,CS103,1,Joseph Miller,joseph.miller854@college.org,78.5,C
+Database Management,CS103,2,Joseph Miller,joseph.miller854@college.org,91.8,A
+Web Development,CS104,1,Joseph Miller,joseph.miller854@college.org,80.6,B
+Web Development,CS104,2,Joseph Miller,joseph.miller854@college.org,100.0,A
+Web Development,CS104,3,Joseph Miller,joseph.miller854@college.org,99.3,A
+Machine Learning,CS105,1,Joseph Miller,joseph.miller854@college.org,96.0,A
+Machine Learning,CS105,2,Joseph Miller,joseph.miller854@college.org,91.2,A
+Algorithms,CS106,1,Joseph Miller,joseph.miller854@college.org,100.0,A
+Algorithms,CS106,2,Joseph Miller,joseph.miller854@college.org,91.4,A
+Software Engineering,CS107,1,Joseph Miller,joseph.miller854@college.org,80.8,B
+Computer Networks,CS108,1,Joseph Miller,joseph.miller854@college.org,77.2,C
+Computer Networks,CS108,2,Joseph Miller,joseph.miller854@college.org,100.0,A
+Python Programming,CS101,1,Sarah Clark,sarah.clark627@student.edu,72.6,C
+Python Programming,CS101,2,Sarah Clark,sarah.clark627@student.edu,62.8,D
+Data Structures,CS102,1,Sarah Clark,sarah.clark627@student.edu,80.3,B
+Data Structures,CS102,2,Sarah Clark,sarah.clark627@student.edu,62.5,D
+Data Structures,CS102,3,Sarah Clark,sarah.clark627@student.edu,69.7,D
+Database Management,CS103,1,Sarah Clark,sarah.clark627@student.edu,81.3,B
+Database Management,CS103,2,Sarah Clark,sarah.clark627@student.edu,80.7,B
+Database Management,CS103,3,Sarah Clark,sarah.clark627@student.edu,68.4,D
+Web Development,CS104,1,Sarah Clark,sarah.clark627@student.edu,78.9,C
+Web Development,CS104,2,Sarah Clark,sarah.clark627@student.edu,69.7,D
+Machine Learning,CS105,1,Sarah Clark,sarah.clark627@student.edu,78.5,C
+Machine Learning,CS105,2,Sarah Clark,sarah.clark627@student.edu,76.3,C
+Algorithms,CS106,1,Sarah Clark,sarah.clark627@student.edu,60.3,D
+Software Engineering,CS107,1,Sarah Clark,sarah.clark627@student.edu,68.7,D
+Software Engineering,CS107,2,Sarah Clark,sarah.clark627@student.edu,81.2,B
+Computer Networks,CS108,1,Sarah Clark,sarah.clark627@student.edu,73.9,C
+Computer Networks,CS108,2,Sarah Clark,sarah.clark627@student.edu,74.3,C
+Python Programming,CS101,1,Henry Rodriguez,henry.rodriguez684@gmail.com,89.0,B
+Data Structures,CS102,1,Henry Rodriguez,henry.rodriguez684@gmail.com,84.6,B
+Database Management,CS103,1,Henry Rodriguez,henry.rodriguez684@gmail.com,100.0,A
+Database Management,CS103,2,Henry Rodriguez,henry.rodriguez684@gmail.com,87.4,B
+Web Development,CS104,1,Henry Rodriguez,henry.rodriguez684@gmail.com,78.0,C
+Web Development,CS104,2,Henry Rodriguez,henry.rodriguez684@gmail.com,100.0,A
+Web Development,CS104,3,Henry Rodriguez,henry.rodriguez684@gmail.com,100.0,A
+Machine Learning,CS105,1,Henry Rodriguez,henry.rodriguez684@gmail.com,89.2,B
+Machine Learning,CS105,2,Henry Rodriguez,henry.rodriguez684@gmail.com,100.0,A
+Machine Learning,CS105,3,Henry Rodriguez,henry.rodriguez684@gmail.com,100.0,A
+Algorithms,CS106,1,Henry Rodriguez,henry.rodriguez684@gmail.com,92.6,A
+Algorithms,CS106,2,Henry Rodriguez,henry.rodriguez684@gmail.com,100.0,A
+Algorithms,CS106,3,Henry Rodriguez,henry.rodriguez684@gmail.com,100.0,A
+Software Engineering,CS107,1,Henry Rodriguez,henry.rodriguez684@gmail.com,100.0,A
+Software Engineering,CS107,2,Henry Rodriguez,henry.rodriguez684@gmail.com,86.6,B
+Software Engineering,CS107,3,Henry Rodriguez,henry.rodriguez684@gmail.com,97.8,A
+Computer Networks,CS108,1,Henry Rodriguez,henry.rodriguez684@gmail.com,100.0,A
+Python Programming,CS101,1,Priya Lee,priya.lee955@student.edu,25.5,F
+Data Structures,CS102,1,Priya Lee,priya.lee955@student.edu,36.8,F
+Data Structures,CS102,2,Priya Lee,priya.lee955@student.edu,42.2,F
+Data Structures,CS102,3,Priya Lee,priya.lee955@student.edu,45.4,F
+Database Management,CS103,1,Priya Lee,priya.lee955@student.edu,31.4,F
+Web Development,CS104,1,Priya Lee,priya.lee955@student.edu,28.0,F
+Web Development,CS104,2,Priya Lee,priya.lee955@student.edu,41.5,F
+Web Development,CS104,3,Priya Lee,priya.lee955@student.edu,49.2,F
+Machine Learning,CS105,1,Priya Lee,priya.lee955@student.edu,25.9,F
+Machine Learning,CS105,2,Priya Lee,priya.lee955@student.edu,35.6,F
+Machine Learning,CS105,3,Priya Lee,priya.lee955@student.edu,50.6,F
+Algorithms,CS106,1,Priya Lee,priya.lee955@student.edu,31.5,F
+Software Engineering,CS107,1,Priya Lee,priya.lee955@student.edu,35.2,F
+Computer Networks,CS108,1,Priya Lee,priya.lee955@student.edu,27.8,F
+Computer Networks,CS108,2,Priya Lee,priya.lee955@student.edu,39.2,F
+Python Programming,CS101,1,Wei Robinson,wei.robinson962@gmail.com,74.9,C
+Python Programming,CS101,2,Wei Robinson,wei.robinson962@gmail.com,89.9,B
+Data Structures,CS102,1,Wei Robinson,wei.robinson962@gmail.com,78.9,C
+Data Structures,CS102,2,Wei Robinson,wei.robinson962@gmail.com,97.8,A
+Data Structures,CS102,3,Wei Robinson,wei.robinson962@gmail.com,88.2,B
+Database Management,CS103,1,Wei Robinson,wei.robinson962@gmail.com,66.5,D
+Database Management,CS103,2,Wei Robinson,wei.robinson962@gmail.com,84.6,B
+Web Development,CS104,1,Wei Robinson,wei.robinson962@gmail.com,94.1,A
+Web Development,CS104,2,Wei Robinson,wei.robinson962@gmail.com,100.0,A
+Machine Learning,CS105,1,Wei Robinson,wei.robinson962@gmail.com,97.9,A
+Algorithms,CS106,1,Wei Robinson,wei.robinson962@gmail.com,76.4,C
+Algorithms,CS106,2,Wei Robinson,wei.robinson962@gmail.com,93.9,A
+Software Engineering,CS107,1,Wei Robinson,wei.robinson962@gmail.com,72.8,C
+Computer Networks,CS108,1,Wei Robinson,wei.robinson962@gmail.com,90.9,A
+Computer Networks,CS108,2,Wei Robinson,wei.robinson962@gmail.com,100.0,A
+Python Programming,CS101,1,Amelia Smith,amelia.smith271@outlook.com,58.9,F
+Python Programming,CS101,2,Amelia Smith,amelia.smith271@outlook.com,76.5,C
+Python Programming,CS101,3,Amelia Smith,amelia.smith271@outlook.com,88.9,B
+Data Structures,CS102,1,Amelia Smith,amelia.smith271@outlook.com,62.5,D
+Data Structures,CS102,2,Amelia Smith,amelia.smith271@outlook.com,89.7,B
+Data Structures,CS102,3,Amelia Smith,amelia.smith271@outlook.com,79.6,C
+Database Management,CS103,1,Amelia Smith,amelia.smith271@outlook.com,64.9,D
+Database Management,CS103,2,Amelia Smith,amelia.smith271@outlook.com,80.2,B
+Web Development,CS104,1,Amelia Smith,amelia.smith271@outlook.com,76.5,C
+Web Development,CS104,2,Amelia Smith,amelia.smith271@outlook.com,75.7,C
+Web Development,CS104,3,Amelia Smith,amelia.smith271@outlook.com,96.7,A
+Machine Learning,CS105,1,Amelia Smith,amelia.smith271@outlook.com,67.0,D
+Machine Learning,CS105,2,Amelia Smith,amelia.smith271@outlook.com,86.7,B
+Algorithms,CS106,1,Amelia Smith,amelia.smith271@outlook.com,59.6,F
+Algorithms,CS106,2,Amelia Smith,amelia.smith271@outlook.com,61.7,D
+Algorithms,CS106,3,Amelia Smith,amelia.smith271@outlook.com,97.2,A
+Software Engineering,CS107,1,Amelia Smith,amelia.smith271@outlook.com,75.5,C
+Computer Networks,CS108,1,Amelia Smith,amelia.smith271@outlook.com,75.6,C
+Computer Networks,CS108,2,Amelia Smith,amelia.smith271@outlook.com,88.3,B
+Computer Networks,CS108,3,Amelia Smith,amelia.smith271@outlook.com,96.0,A
+Python Programming,CS101,1,Henry Moore,henry.moore912@gmail.com,69.4,D
+Python Programming,CS101,2,Henry Moore,henry.moore912@gmail.com,59.8,F
+Data Structures,CS102,1,Henry Moore,henry.moore912@gmail.com,77.1,C
+Data Structures,CS102,2,Henry Moore,henry.moore912@gmail.com,79.0,C
+Database Management,CS103,1,Henry Moore,henry.moore912@gmail.com,62.3,D
+Database Management,CS103,2,Henry Moore,henry.moore912@gmail.com,64.5,D
+Web Development,CS104,1,Henry Moore,henry.moore912@gmail.com,66.1,D
+Web Development,CS104,2,Henry Moore,henry.moore912@gmail.com,75.1,C
+Machine Learning,CS105,1,Henry Moore,henry.moore912@gmail.com,69.8,D
+Algorithms,CS106,1,Henry Moore,henry.moore912@gmail.com,68.0,D
+Algorithms,CS106,2,Henry Moore,henry.moore912@gmail.com,75.3,C
+Software Engineering,CS107,1,Henry Moore,henry.moore912@gmail.com,78.3,C
+Software Engineering,CS107,2,Henry Moore,henry.moore912@gmail.com,82.5,B
+Computer Networks,CS108,1,Henry Moore,henry.moore912@gmail.com,77.4,C
+Computer Networks,CS108,2,Henry Moore,henry.moore912@gmail.com,64.9,D
+Python Programming,CS101,1,Charlotte Johnson,charlotte.johnson761@gmail.com,82.8,B
+Python Programming,CS101,2,Charlotte Johnson,charlotte.johnson761@gmail.com,88.6,B
+Python Programming,CS101,3,Charlotte Johnson,charlotte.johnson761@gmail.com,90.4,A
+Data Structures,CS102,1,Charlotte Johnson,charlotte.johnson761@gmail.com,57.8,F
+Data Structures,CS102,2,Charlotte Johnson,charlotte.johnson761@gmail.com,72.0,C
+Data Structures,CS102,3,Charlotte Johnson,charlotte.johnson761@gmail.com,87.3,B
+Database Management,CS103,1,Charlotte Johnson,charlotte.johnson761@gmail.com,77.3,C
+Database Management,CS103,2,Charlotte Johnson,charlotte.johnson761@gmail.com,69.5,D
+Database Management,CS103,3,Charlotte Johnson,charlotte.johnson761@gmail.com,79.6,C
+Web Development,CS104,1,Charlotte Johnson,charlotte.johnson761@gmail.com,70.7,C
+Web Development,CS104,2,Charlotte Johnson,charlotte.johnson761@gmail.com,76.9,C
+Web Development,CS104,3,Charlotte Johnson,charlotte.johnson761@gmail.com,72.2,C
+Machine Learning,CS105,1,Charlotte Johnson,charlotte.johnson761@gmail.com,62.3,D
+Machine Learning,CS105,2,Charlotte Johnson,charlotte.johnson761@gmail.com,64.4,D
+Machine Learning,CS105,3,Charlotte Johnson,charlotte.johnson761@gmail.com,89.8,B
+Algorithms,CS106,1,Charlotte Johnson,charlotte.johnson761@gmail.com,82.8,B
+Software Engineering,CS107,1,Charlotte Johnson,charlotte.johnson761@gmail.com,67.2,D
+Software Engineering,CS107,2,Charlotte Johnson,charlotte.johnson761@gmail.com,74.1,C
+Software Engineering,CS107,3,Charlotte Johnson,charlotte.johnson761@gmail.com,83.6,B
+Computer Networks,CS108,1,Charlotte Johnson,charlotte.johnson761@gmail.com,70.3,C
+Computer Networks,CS108,2,Charlotte Johnson,charlotte.johnson761@gmail.com,62.5,D
+Python Programming,CS101,1,Sophia Lee,sophia.lee279@outlook.com,47.3,F
+Python Programming,CS101,2,Sophia Lee,sophia.lee279@outlook.com,49.9,F
+Python Programming,CS101,3,Sophia Lee,sophia.lee279@outlook.com,59.1,F
+Data Structures,CS102,1,Sophia Lee,sophia.lee279@outlook.com,38.8,F
+Data Structures,CS102,2,Sophia Lee,sophia.lee279@outlook.com,43.7,F
+Database Management,CS103,1,Sophia Lee,sophia.lee279@outlook.com,48.0,F
+Web Development,CS104,1,Sophia Lee,sophia.lee279@outlook.com,46.0,F
+Web Development,CS104,2,Sophia Lee,sophia.lee279@outlook.com,37.7,F
+Machine Learning,CS105,1,Sophia Lee,sophia.lee279@outlook.com,35.0,F
+Machine Learning,CS105,2,Sophia Lee,sophia.lee279@outlook.com,39.7,F
+Algorithms,CS106,1,Sophia Lee,sophia.lee279@outlook.com,44.6,F
+Algorithms,CS106,2,Sophia Lee,sophia.lee279@outlook.com,41.7,F
+Software Engineering,CS107,1,Sophia Lee,sophia.lee279@outlook.com,39.1,F
+Computer Networks,CS108,1,Sophia Lee,sophia.lee279@outlook.com,47.7,F
+Computer Networks,CS108,2,Sophia Lee,sophia.lee279@outlook.com,38.4,F
+Python Programming,CS101,1,Sarah Ali,sarah.ali620@student.edu,78.7,C
+Data Structures,CS102,1,Sarah Ali,sarah.ali620@student.edu,67.5,D
+Data Structures,CS102,2,Sarah Ali,sarah.ali620@student.edu,56.6,F
+Database Management,CS103,1,Sarah Ali,sarah.ali620@student.edu,71.9,C
+Database Management,CS103,2,Sarah Ali,sarah.ali620@student.edu,62.2,D
+Database Management,CS103,3,Sarah Ali,sarah.ali620@student.edu,80.4,B
+Web Development,CS104,1,Sarah Ali,sarah.ali620@student.edu,54.6,F
+Machine Learning,CS105,1,Sarah Ali,sarah.ali620@student.edu,67.2,D
+Machine Learning,CS105,2,Sarah Ali,sarah.ali620@student.edu,71.6,C
+Algorithms,CS106,1,Sarah Ali,sarah.ali620@student.edu,62.5,D
+Algorithms,CS106,2,Sarah Ali,sarah.ali620@student.edu,72.3,C
+Algorithms,CS106,3,Sarah Ali,sarah.ali620@student.edu,87.3,B
+Software Engineering,CS107,1,Sarah Ali,sarah.ali620@student.edu,59.3,F
+Software Engineering,CS107,2,Sarah Ali,sarah.ali620@student.edu,68.9,D
+Computer Networks,CS108,1,Sarah Ali,sarah.ali620@student.edu,57.9,F
+Python Programming,CS101,1,Olivia Ali,olivia.ali735@outlook.com,84.2,B
+Python Programming,CS101,2,Olivia Ali,olivia.ali735@outlook.com,85.2,B
+Data Structures,CS102,1,Olivia Ali,olivia.ali735@outlook.com,78.2,C
+Data Structures,CS102,2,Olivia Ali,olivia.ali735@outlook.com,66.9,D
+Data Structures,CS102,3,Olivia Ali,olivia.ali735@outlook.com,79.4,C
+Database Management,CS103,1,Olivia Ali,olivia.ali735@outlook.com,71.7,C
+Web Development,CS104,1,Olivia Ali,olivia.ali735@outlook.com,81.4,B
+Web Development,CS104,2,Olivia Ali,olivia.ali735@outlook.com,85.4,B
+Web Development,CS104,3,Olivia Ali,olivia.ali735@outlook.com,79.1,C
+Machine Learning,CS105,1,Olivia Ali,olivia.ali735@outlook.com,68.4,D
+Algorithms,CS106,1,Olivia Ali,olivia.ali735@outlook.com,72.9,C
+Algorithms,CS106,2,Olivia Ali,olivia.ali735@outlook.com,85.0,B
+Algorithms,CS106,3,Olivia Ali,olivia.ali735@outlook.com,83.5,B
+Software Engineering,CS107,1,Olivia Ali,olivia.ali735@outlook.com,78.6,C
+Computer Networks,CS108,1,Olivia Ali,olivia.ali735@outlook.com,89.6,B
+Computer Networks,CS108,2,Olivia Ali,olivia.ali735@outlook.com,78.1,C
+Python Programming,CS101,1,Samuel Garcia,samuel.garcia209@student.edu,92.0,A
+Data Structures,CS102,1,Samuel Garcia,samuel.garcia209@student.edu,91.5,A
+Database Management,CS103,1,Samuel Garcia,samuel.garcia209@student.edu,98.5,A
+Web Development,CS104,1,Samuel Garcia,samuel.garcia209@student.edu,98.4,A
+Machine Learning,CS105,1,Samuel Garcia,samuel.garcia209@student.edu,100.0,A
+Algorithms,CS106,1,Samuel Garcia,samuel.garcia209@student.edu,77.5,C
+Software Engineering,CS107,1,Samuel Garcia,samuel.garcia209@student.edu,90.6,A
+Software Engineering,CS107,2,Samuel Garcia,samuel.garcia209@student.edu,93.3,A
+Computer Networks,CS108,1,Samuel Garcia,samuel.garcia209@student.edu,80.2,B
+Python Programming,CS101,1,Ava Ahmed,ava.ahmed518@student.edu,58.7,F
+Data Structures,CS102,1,Ava Ahmed,ava.ahmed518@student.edu,68.2,D
+Data Structures,CS102,2,Ava Ahmed,ava.ahmed518@student.edu,72.3,C
+Data Structures,CS102,3,Ava Ahmed,ava.ahmed518@student.edu,77.6,C
+Database Management,CS103,1,Ava Ahmed,ava.ahmed518@student.edu,58.0,F
+Database Management,CS103,2,Ava Ahmed,ava.ahmed518@student.edu,82.8,B
+Database Management,CS103,3,Ava Ahmed,ava.ahmed518@student.edu,77.8,C
+Web Development,CS104,1,Ava Ahmed,ava.ahmed518@student.edu,54.3,F
+Web Development,CS104,2,Ava Ahmed,ava.ahmed518@student.edu,79.5,C
+Machine Learning,CS105,1,Ava Ahmed,ava.ahmed518@student.edu,67.0,D
+Machine Learning,CS105,2,Ava Ahmed,ava.ahmed518@student.edu,66.6,D
+Algorithms,CS106,1,Ava Ahmed,ava.ahmed518@student.edu,67.1,D
+Software Engineering,CS107,1,Ava Ahmed,ava.ahmed518@student.edu,70.8,C
+Computer Networks,CS108,1,Ava Ahmed,ava.ahmed518@student.edu,64.5,D
+Python Programming,CS101,1,Noah Robinson,noah.robinson258@college.org,50.5,F
+Python Programming,CS101,2,Noah Robinson,noah.robinson258@college.org,60.3,D
+Python Programming,CS101,3,Noah Robinson,noah.robinson258@college.org,68.5,D
+Data Structures,CS102,1,Noah Robinson,noah.robinson258@college.org,49.3,F
+Data Structures,CS102,2,Noah Robinson,noah.robinson258@college.org,58.4,F
+Data Structures,CS102,3,Noah Robinson,noah.robinson258@college.org,59.1,F
+Database Management,CS103,1,Noah Robinson,noah.robinson258@college.org,46.6,F
+Database Management,CS103,2,Noah Robinson,noah.robinson258@college.org,67.5,D
+Web Development,CS104,1,Noah Robinson,noah.robinson258@college.org,59.4,F
+Web Development,CS104,2,Noah Robinson,noah.robinson258@college.org,71.6,C
+Web Development,CS104,3,Noah Robinson,noah.robinson258@college.org,69.1,D
+Machine Learning,CS105,1,Noah Robinson,noah.robinson258@college.org,56.3,F
+Machine Learning,CS105,2,Noah Robinson,noah.robinson258@college.org,65.5,D
+Machine Learning,CS105,3,Noah Robinson,noah.robinson258@college.org,76.4,C
+Algorithms,CS106,1,Noah Robinson,noah.robinson258@college.org,59.2,F
+Software Engineering,CS107,1,Noah Robinson,noah.robinson258@college.org,61.2,D
+Software Engineering,CS107,2,Noah Robinson,noah.robinson258@college.org,70.0,C
+Software Engineering,CS107,3,Noah Robinson,noah.robinson258@college.org,84.4,B
+Computer Networks,CS108,1,Noah Robinson,noah.robinson258@college.org,53.7,F
+Python Programming,CS101,1,Raj Patel,raj.patel95@gmail.com,51.2,F
+Python Programming,CS101,2,Raj Patel,raj.patel95@gmail.com,70.6,C
+Data Structures,CS102,1,Raj Patel,raj.patel95@gmail.com,51.9,F
+Data Structures,CS102,2,Raj Patel,raj.patel95@gmail.com,70.4,C
+Database Management,CS103,1,Raj Patel,raj.patel95@gmail.com,61.2,D
+Web Development,CS104,1,Raj Patel,raj.patel95@gmail.com,68.6,D
+Machine Learning,CS105,1,Raj Patel,raj.patel95@gmail.com,60.3,D
+Algorithms,CS106,1,Raj Patel,raj.patel95@gmail.com,70.6,C
+Algorithms,CS106,2,Raj Patel,raj.patel95@gmail.com,82.6,B
+Algorithms,CS106,3,Raj Patel,raj.patel95@gmail.com,87.1,B
+Software Engineering,CS107,1,Raj Patel,raj.patel95@gmail.com,66.8,D
+Software Engineering,CS107,2,Raj Patel,raj.patel95@gmail.com,68.7,D
+Software Engineering,CS107,3,Raj Patel,raj.patel95@gmail.com,62.3,D
+Computer Networks,CS108,1,Raj Patel,raj.patel95@gmail.com,69.2,D
+Computer Networks,CS108,2,Raj Patel,raj.patel95@gmail.com,75.1,C
+Python Programming,CS101,1,Matthew Walker,matthew.walker850@college.org,70.8,C
+Python Programming,CS101,2,Matthew Walker,matthew.walker850@college.org,82.7,B
+Data Structures,CS102,1,Matthew Walker,matthew.walker850@college.org,88.2,B
+Data Structures,CS102,2,Matthew Walker,matthew.walker850@college.org,93.9,A
+Database Management,CS103,1,Matthew Walker,matthew.walker850@college.org,68.5,D
+Database Management,CS103,2,Matthew Walker,matthew.walker850@college.org,75.8,C
+Web Development,CS104,1,Matthew Walker,matthew.walker850@college.org,80.7,B
+Web Development,CS104,2,Matthew Walker,matthew.walker850@college.org,78.3,C
+Web Development,CS104,3,Matthew Walker,matthew.walker850@college.org,100.0,A
+Machine Learning,CS105,1,Matthew Walker,matthew.walker850@college.org,93.2,A
+Algorithms,CS106,1,Matthew Walker,matthew.walker850@college.org,92.3,A
+Algorithms,CS106,2,Matthew Walker,matthew.walker850@college.org,91.5,A
+Algorithms,CS106,3,Matthew Walker,matthew.walker850@college.org,86.5,B
+Software Engineering,CS107,1,Matthew Walker,matthew.walker850@college.org,86.7,B
+Software Engineering,CS107,2,Matthew Walker,matthew.walker850@college.org,100.0,A
+Computer Networks,CS108,1,Matthew Walker,matthew.walker850@college.org,68.6,D
+Python Programming,CS101,1,Wei Wilson,wei.wilson46@student.edu,74.4,C
+Python Programming,CS101,2,Wei Wilson,wei.wilson46@student.edu,94.1,A
+Data Structures,CS102,1,Wei Wilson,wei.wilson46@student.edu,65.1,D
+Database Management,CS103,1,Wei Wilson,wei.wilson46@student.edu,79.7,C
+Web Development,CS104,1,Wei Wilson,wei.wilson46@student.edu,75.1,C
+Web Development,CS104,2,Wei Wilson,wei.wilson46@student.edu,95.0,A
+Web Development,CS104,3,Wei Wilson,wei.wilson46@student.edu,100.0,A
+Machine Learning,CS105,1,Wei Wilson,wei.wilson46@student.edu,70.2,C
+Machine Learning,CS105,2,Wei Wilson,wei.wilson46@student.edu,89.1,B
+Algorithms,CS106,1,Wei Wilson,wei.wilson46@student.edu,80.9,B
+Software Engineering,CS107,1,Wei Wilson,wei.wilson46@student.edu,85.2,B
+Software Engineering,CS107,2,Wei Wilson,wei.wilson46@student.edu,76.2,C
+Software Engineering,CS107,3,Wei Wilson,wei.wilson46@student.edu,92.9,A
+Computer Networks,CS108,1,Wei Wilson,wei.wilson46@student.edu,78.7,C
+Python Programming,CS101,1,Amelia King,amelia.king342@gmail.com,72.5,C
+Python Programming,CS101,2,Amelia King,amelia.king342@gmail.com,71.2,C
+Data Structures,CS102,1,Amelia King,amelia.king342@gmail.com,66.9,D
+Database Management,CS103,1,Amelia King,amelia.king342@gmail.com,68.5,D
+Database Management,CS103,2,Amelia King,amelia.king342@gmail.com,71.0,C
+Web Development,CS104,1,Amelia King,amelia.king342@gmail.com,66.4,D
+Web Development,CS104,2,Amelia King,amelia.king342@gmail.com,72.2,C
+Web Development,CS104,3,Amelia King,amelia.king342@gmail.com,78.4,C
+Machine Learning,CS105,1,Amelia King,amelia.king342@gmail.com,50.3,F
+Algorithms,CS106,1,Amelia King,amelia.king342@gmail.com,51.0,F
+Software Engineering,CS107,1,Amelia King,amelia.king342@gmail.com,53.6,F
+Software Engineering,CS107,2,Amelia King,amelia.king342@gmail.com,60.9,D
+Computer Networks,CS108,1,Amelia King,amelia.king342@gmail.com,57.0,F
+Python Programming,CS101,1,Isabella Martinez,isabella.martinez653@outlook.com,87.5,B
+Python Programming,CS101,2,Isabella Martinez,isabella.martinez653@outlook.com,92.9,A
+Python Programming,CS101,3,Isabella Martinez,isabella.martinez653@outlook.com,100.0,A
+Data Structures,CS102,1,Isabella Martinez,isabella.martinez653@outlook.com,74.2,C
+Data Structures,CS102,2,Isabella Martinez,isabella.martinez653@outlook.com,93.5,A
+Data Structures,CS102,3,Isabella Martinez,isabella.martinez653@outlook.com,99.4,A
+Database Management,CS103,1,Isabella Martinez,isabella.martinez653@outlook.com,74.2,C
+Web Development,CS104,1,Isabella Martinez,isabella.martinez653@outlook.com,79.3,C
+Web Development,CS104,2,Isabella Martinez,isabella.martinez653@outlook.com,73.1,C
+Web Development,CS104,3,Isabella Martinez,isabella.martinez653@outlook.com,100.0,A
+Machine Learning,CS105,1,Isabella Martinez,isabella.martinez653@outlook.com,90.5,A
+Machine Learning,CS105,2,Isabella Martinez,isabella.martinez653@outlook.com,90.2,A
+Algorithms,CS106,1,Isabella Martinez,isabella.martinez653@outlook.com,80.9,B
+Algorithms,CS106,2,Isabella Martinez,isabella.martinez653@outlook.com,100.0,A
+Algorithms,CS106,3,Isabella Martinez,isabella.martinez653@outlook.com,77.8,C
+Software Engineering,CS107,1,Isabella Martinez,isabella.martinez653@outlook.com,92.1,A
+Software Engineering,CS107,2,Isabella Martinez,isabella.martinez653@outlook.com,74.0,C
+Software Engineering,CS107,3,Isabella Martinez,isabella.martinez653@outlook.com,77.4,C
+Computer Networks,CS108,1,Isabella Martinez,isabella.martinez653@outlook.com,80.3,B
+Computer Networks,CS108,2,Isabella Martinez,isabella.martinez653@outlook.com,77.2,C
+Python Programming,CS101,1,Lucas Rodriguez,lucas.rodriguez166@student.edu,58.3,F
+Python Programming,CS101,2,Lucas Rodriguez,lucas.rodriguez166@student.edu,83.7,B
+Python Programming,CS101,3,Lucas Rodriguez,lucas.rodriguez166@student.edu,91.9,A
+Data Structures,CS102,1,Lucas Rodriguez,lucas.rodriguez166@student.edu,79.7,C
+Data Structures,CS102,2,Lucas Rodriguez,lucas.rodriguez166@student.edu,66.1,D
+Data Structures,CS102,3,Lucas Rodriguez,lucas.rodriguez166@student.edu,88.1,B
+Database Management,CS103,1,Lucas Rodriguez,lucas.rodriguez166@student.edu,79.6,C
+Web Development,CS104,1,Lucas Rodriguez,lucas.rodriguez166@student.edu,72.5,C
+Machine Learning,CS105,1,Lucas Rodriguez,lucas.rodriguez166@student.edu,82.4,B
+Algorithms,CS106,1,Lucas Rodriguez,lucas.rodriguez166@student.edu,67.5,D
+Algorithms,CS106,2,Lucas Rodriguez,lucas.rodriguez166@student.edu,83.2,B
+Algorithms,CS106,3,Lucas Rodriguez,lucas.rodriguez166@student.edu,99.1,A
+Software Engineering,CS107,1,Lucas Rodriguez,lucas.rodriguez166@student.edu,76.3,C
+Software Engineering,CS107,2,Lucas Rodriguez,lucas.rodriguez166@student.edu,89.1,B
+Software Engineering,CS107,3,Lucas Rodriguez,lucas.rodriguez166@student.edu,89.5,B
+Computer Networks,CS108,1,Lucas Rodriguez,lucas.rodriguez166@student.edu,66.3,D
+Python Programming,CS101,1,Sarah Kumar,sarah.kumar565@college.org,85.9,B
+Data Structures,CS102,1,Sarah Kumar,sarah.kumar565@college.org,85.1,B
+Data Structures,CS102,2,Sarah Kumar,sarah.kumar565@college.org,93.4,A
+Database Management,CS103,1,Sarah Kumar,sarah.kumar565@college.org,69.1,D
+Database Management,CS103,2,Sarah Kumar,sarah.kumar565@college.org,83.4,B
+Database Management,CS103,3,Sarah Kumar,sarah.kumar565@college.org,100.0,A
+Web Development,CS104,1,Sarah Kumar,sarah.kumar565@college.org,93.8,A
+Machine Learning,CS105,1,Sarah Kumar,sarah.kumar565@college.org,69.8,D
+Machine Learning,CS105,2,Sarah Kumar,sarah.kumar565@college.org,100.0,A
+Machine Learning,CS105,3,Sarah Kumar,sarah.kumar565@college.org,100.0,A
+Algorithms,CS106,1,Sarah Kumar,sarah.kumar565@college.org,95.6,A
+Software Engineering,CS107,1,Sarah Kumar,sarah.kumar565@college.org,89.5,B
+Software Engineering,CS107,2,Sarah Kumar,sarah.kumar565@college.org,100.0,A
+Software Engineering,CS107,3,Sarah Kumar,sarah.kumar565@college.org,91.3,A
+Computer Networks,CS108,1,Sarah Kumar,sarah.kumar565@college.org,70.1,C
+Computer Networks,CS108,2,Sarah Kumar,sarah.kumar565@college.org,80.4,B
+Python Programming,CS101,1,Chloe Gonzalez,chloe.gonzalez575@college.org,53.0,F
+Data Structures,CS102,1,Chloe Gonzalez,chloe.gonzalez575@college.org,58.3,F
+Data Structures,CS102,2,Chloe Gonzalez,chloe.gonzalez575@college.org,60.9,D
+Database Management,CS103,1,Chloe Gonzalez,chloe.gonzalez575@college.org,60.3,D
+Database Management,CS103,2,Chloe Gonzalez,chloe.gonzalez575@college.org,69.8,D
+Web Development,CS104,1,Chloe Gonzalez,chloe.gonzalez575@college.org,64.2,D
+Web Development,CS104,2,Chloe Gonzalez,chloe.gonzalez575@college.org,73.2,C
+Web Development,CS104,3,Chloe Gonzalez,chloe.gonzalez575@college.org,73.8,C
+Machine Learning,CS105,1,Chloe Gonzalez,chloe.gonzalez575@college.org,54.3,F
+Machine Learning,CS105,2,Chloe Gonzalez,chloe.gonzalez575@college.org,66.1,D
+Algorithms,CS106,1,Chloe Gonzalez,chloe.gonzalez575@college.org,51.3,F
+Algorithms,CS106,2,Chloe Gonzalez,chloe.gonzalez575@college.org,69.9,D
+Algorithms,CS106,3,Chloe Gonzalez,chloe.gonzalez575@college.org,84.9,B
+Software Engineering,CS107,1,Chloe Gonzalez,chloe.gonzalez575@college.org,51.0,F
+Software Engineering,CS107,2,Chloe Gonzalez,chloe.gonzalez575@college.org,77.1,C
+Computer Networks,CS108,1,Chloe Gonzalez,chloe.gonzalez575@college.org,70.3,C
+Computer Networks,CS108,2,Chloe Gonzalez,chloe.gonzalez575@college.org,71.5,C
+Computer Networks,CS108,3,Chloe Gonzalez,chloe.gonzalez575@college.org,56.5,F
+Python Programming,CS101,1,Amelia Gonzalez,amelia.gonzalez115@gmail.com,66.1,D
+Python Programming,CS101,2,Amelia Gonzalez,amelia.gonzalez115@gmail.com,69.6,D
+Python Programming,CS101,3,Amelia Gonzalez,amelia.gonzalez115@gmail.com,92.1,A
+Data Structures,CS102,1,Amelia Gonzalez,amelia.gonzalez115@gmail.com,75.6,C
+Data Structures,CS102,2,Amelia Gonzalez,amelia.gonzalez115@gmail.com,64.7,D
+Database Management,CS103,1,Amelia Gonzalez,amelia.gonzalez115@gmail.com,73.8,C
+Web Development,CS104,1,Amelia Gonzalez,amelia.gonzalez115@gmail.com,69.5,D
+Machine Learning,CS105,1,Amelia Gonzalez,amelia.gonzalez115@gmail.com,74.2,C
+Machine Learning,CS105,2,Amelia Gonzalez,amelia.gonzalez115@gmail.com,87.5,B
+Machine Learning,CS105,3,Amelia Gonzalez,amelia.gonzalez115@gmail.com,78.8,C
+Algorithms,CS106,1,Amelia Gonzalez,amelia.gonzalez115@gmail.com,58.6,F
+Algorithms,CS106,2,Amelia Gonzalez,amelia.gonzalez115@gmail.com,71.6,C
+Software Engineering,CS107,1,Amelia Gonzalez,amelia.gonzalez115@gmail.com,69.5,D
+Software Engineering,CS107,2,Amelia Gonzalez,amelia.gonzalez115@gmail.com,64.1,D
+Computer Networks,CS108,1,Amelia Gonzalez,amelia.gonzalez115@gmail.com,60.3,D
+Python Programming,CS101,1,Sophia Ali,sophia.ali968@gmail.com,68.2,D
+Python Programming,CS101,2,Sophia Ali,sophia.ali968@gmail.com,63.1,D
+Data Structures,CS102,1,Sophia Ali,sophia.ali968@gmail.com,59.4,F
+Data Structures,CS102,2,Sophia Ali,sophia.ali968@gmail.com,57.4,F
+Data Structures,CS102,3,Sophia Ali,sophia.ali968@gmail.com,66.4,D
+Database Management,CS103,1,Sophia Ali,sophia.ali968@gmail.com,58.4,F
+Database Management,CS103,2,Sophia Ali,sophia.ali968@gmail.com,74.2,C
+Database Management,CS103,3,Sophia Ali,sophia.ali968@gmail.com,74.2,C
+Web Development,CS104,1,Sophia Ali,sophia.ali968@gmail.com,59.1,F
+Web Development,CS104,2,Sophia Ali,sophia.ali968@gmail.com,62.7,D
+Machine Learning,CS105,1,Sophia Ali,sophia.ali968@gmail.com,58.5,F
+Machine Learning,CS105,2,Sophia Ali,sophia.ali968@gmail.com,82.9,B
+Machine Learning,CS105,3,Sophia Ali,sophia.ali968@gmail.com,78.9,C
+Algorithms,CS106,1,Sophia Ali,sophia.ali968@gmail.com,53.2,F
+Algorithms,CS106,2,Sophia Ali,sophia.ali968@gmail.com,67.4,D
+Algorithms,CS106,3,Sophia Ali,sophia.ali968@gmail.com,72.7,C
+Software Engineering,CS107,1,Sophia Ali,sophia.ali968@gmail.com,56.8,F
+Software Engineering,CS107,2,Sophia Ali,sophia.ali968@gmail.com,61.2,D
+Computer Networks,CS108,1,Sophia Ali,sophia.ali968@gmail.com,71.2,C
+Computer Networks,CS108,2,Sophia Ali,sophia.ali968@gmail.com,62.6,D
+Computer Networks,CS108,3,Sophia Ali,sophia.ali968@gmail.com,86.9,B
+Python Programming,CS101,1,Fatima Jones,fatima.jones559@outlook.com,48.1,F
+Python Programming,CS101,2,Fatima Jones,fatima.jones559@outlook.com,49.1,F
+Data Structures,CS102,1,Fatima Jones,fatima.jones559@outlook.com,54.7,F
+Database Management,CS103,1,Fatima Jones,fatima.jones559@outlook.com,53.0,F
+Database Management,CS103,2,Fatima Jones,fatima.jones559@outlook.com,45.5,F
+Database Management,CS103,3,Fatima Jones,fatima.jones559@outlook.com,63.2,D
+Web Development,CS104,1,Fatima Jones,fatima.jones559@outlook.com,47.7,F
+Machine Learning,CS105,1,Fatima Jones,fatima.jones559@outlook.com,53.1,F
+Machine Learning,CS105,2,Fatima Jones,fatima.jones559@outlook.com,48.1,F
+Algorithms,CS106,1,Fatima Jones,fatima.jones559@outlook.com,42.4,F
+Software Engineering,CS107,1,Fatima Jones,fatima.jones559@outlook.com,56.1,F
+Software Engineering,CS107,2,Fatima Jones,fatima.jones559@outlook.com,48.4,F
+Computer Networks,CS108,1,Fatima Jones,fatima.jones559@outlook.com,52.0,F
+Computer Networks,CS108,2,Fatima Jones,fatima.jones559@outlook.com,61.0,D
+Computer Networks,CS108,3,Fatima Jones,fatima.jones559@outlook.com,61.2,D
+Python Programming,CS101,1,Emily Johnson,emily.johnson855@gmail.com,70.8,C
+Python Programming,CS101,2,Emily Johnson,emily.johnson855@gmail.com,82.7,B
+Python Programming,CS101,3,Emily Johnson,emily.johnson855@gmail.com,80.4,B
+Data Structures,CS102,1,Emily Johnson,emily.johnson855@gmail.com,86.6,B
+Data Structures,CS102,2,Emily Johnson,emily.johnson855@gmail.com,76.7,C
+Database Management,CS103,1,Emily Johnson,emily.johnson855@gmail.com,73.9,C
+Database Management,CS103,2,Emily Johnson,emily.johnson855@gmail.com,81.7,B
+Web Development,CS104,1,Emily Johnson,emily.johnson855@gmail.com,66.4,D
+Machine Learning,CS105,1,Emily Johnson,emily.johnson855@gmail.com,65.9,D
+Machine Learning,CS105,2,Emily Johnson,emily.johnson855@gmail.com,74.6,C
+Machine Learning,CS105,3,Emily Johnson,emily.johnson855@gmail.com,79.1,C
+Algorithms,CS106,1,Emily Johnson,emily.johnson855@gmail.com,69.4,D
+Software Engineering,CS107,1,Emily Johnson,emily.johnson855@gmail.com,73.8,C
+Computer Networks,CS108,1,Emily Johnson,emily.johnson855@gmail.com,78.8,C
+Python Programming,CS101,1,Evelyn Walker,evelyn.walker597@student.edu,60.4,D
+Python Programming,CS101,2,Evelyn Walker,evelyn.walker597@student.edu,70.9,C
+Data Structures,CS102,1,Evelyn Walker,evelyn.walker597@student.edu,85.5,B
+Data Structures,CS102,2,Evelyn Walker,evelyn.walker597@student.edu,68.1,D
+Data Structures,CS102,3,Evelyn Walker,evelyn.walker597@student.edu,93.3,A
+Database Management,CS103,1,Evelyn Walker,evelyn.walker597@student.edu,75.8,C
+Database Management,CS103,2,Evelyn Walker,evelyn.walker597@student.edu,83.5,B
+Web Development,CS104,1,Evelyn Walker,evelyn.walker597@student.edu,87.1,B
+Web Development,CS104,2,Evelyn Walker,evelyn.walker597@student.edu,81.6,B
+Web Development,CS104,3,Evelyn Walker,evelyn.walker597@student.edu,86.0,B
+Machine Learning,CS105,1,Evelyn Walker,evelyn.walker597@student.edu,76.9,C
+Algorithms,CS106,1,Evelyn Walker,evelyn.walker597@student.edu,64.5,D
+Algorithms,CS106,2,Evelyn Walker,evelyn.walker597@student.edu,74.6,C
+Algorithms,CS106,3,Evelyn Walker,evelyn.walker597@student.edu,85.4,B
+Software Engineering,CS107,1,Evelyn Walker,evelyn.walker597@student.edu,61.2,D
+Software Engineering,CS107,2,Evelyn Walker,evelyn.walker597@student.edu,68.7,D
+Computer Networks,CS108,1,Evelyn Walker,evelyn.walker597@student.edu,84.5,B
+Python Programming,CS101,1,Fatima Allen,fatima.allen441@outlook.com,79.2,C
+Python Programming,CS101,2,Fatima Allen,fatima.allen441@outlook.com,68.3,D
+Python Programming,CS101,3,Fatima Allen,fatima.allen441@outlook.com,91.5,A
+Data Structures,CS102,1,Fatima Allen,fatima.allen441@outlook.com,59.4,F
+Data Structures,CS102,2,Fatima Allen,fatima.allen441@outlook.com,66.1,D
+Data Structures,CS102,3,Fatima Allen,fatima.allen441@outlook.com,93.7,A
+Database Management,CS103,1,Fatima Allen,fatima.allen441@outlook.com,70.7,C
+Database Management,CS103,2,Fatima Allen,fatima.allen441@outlook.com,62.9,D
+Database Management,CS103,3,Fatima Allen,fatima.allen441@outlook.com,75.9,C
+Web Development,CS104,1,Fatima Allen,fatima.allen441@outlook.com,66.7,D
+Web Development,CS104,2,Fatima Allen,fatima.allen441@outlook.com,84.0,B
+Machine Learning,CS105,1,Fatima Allen,fatima.allen441@outlook.com,68.0,D
+Machine Learning,CS105,2,Fatima Allen,fatima.allen441@outlook.com,82.3,B
+Machine Learning,CS105,3,Fatima Allen,fatima.allen441@outlook.com,77.2,C
+Algorithms,CS106,1,Fatima Allen,fatima.allen441@outlook.com,67.5,D
+Algorithms,CS106,2,Fatima Allen,fatima.allen441@outlook.com,80.3,B
+Algorithms,CS106,3,Fatima Allen,fatima.allen441@outlook.com,89.3,B
+Software Engineering,CS107,1,Fatima Allen,fatima.allen441@outlook.com,66.6,D
+Computer Networks,CS108,1,Fatima Allen,fatima.allen441@outlook.com,64.9,D
+Python Programming,CS101,1,Fatima Smith,fatima.smith43@outlook.com,64.5,D
+Python Programming,CS101,2,Fatima Smith,fatima.smith43@outlook.com,67.2,D
+Data Structures,CS102,1,Fatima Smith,fatima.smith43@outlook.com,62.9,D
+Data Structures,CS102,2,Fatima Smith,fatima.smith43@outlook.com,76.2,C
+Data Structures,CS102,3,Fatima Smith,fatima.smith43@outlook.com,80.7,B
+Database Management,CS103,1,Fatima Smith,fatima.smith43@outlook.com,63.0,D
+Database Management,CS103,2,Fatima Smith,fatima.smith43@outlook.com,66.8,D
+Database Management,CS103,3,Fatima Smith,fatima.smith43@outlook.com,72.6,C
+Web Development,CS104,1,Fatima Smith,fatima.smith43@outlook.com,56.9,F
+Web Development,CS104,2,Fatima Smith,fatima.smith43@outlook.com,65.4,D
+Web Development,CS104,3,Fatima Smith,fatima.smith43@outlook.com,83.2,B
+Machine Learning,CS105,1,Fatima Smith,fatima.smith43@outlook.com,66.7,D
+Algorithms,CS106,1,Fatima Smith,fatima.smith43@outlook.com,69.5,D
+Algorithms,CS106,2,Fatima Smith,fatima.smith43@outlook.com,62.4,D
+Software Engineering,CS107,1,Fatima Smith,fatima.smith43@outlook.com,53.3,F
+Software Engineering,CS107,2,Fatima Smith,fatima.smith43@outlook.com,60.7,D
+Computer Networks,CS108,1,Fatima Smith,fatima.smith43@outlook.com,54.9,F
+Computer Networks,CS108,2,Fatima Smith,fatima.smith43@outlook.com,59.9,F
+Computer Networks,CS108,3,Fatima Smith,fatima.smith43@outlook.com,69.9,D
